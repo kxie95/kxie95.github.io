@@ -1,13 +1,12 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Karen's Blog
+email:       karen-x@outlook.com
+author:      Karen Xie
+description: "A brain dump of things I learn. They might make sense."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://kxie95.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
  - contact.html
 
 # Google services
@@ -20,8 +19,8 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
-show_related_posts:   false
+animated:             true
+show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
@@ -51,7 +50,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: kxie95
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
@@ -59,7 +58,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: karxie
 angellist_username:
 medium_id:
 bitcoin_url:
