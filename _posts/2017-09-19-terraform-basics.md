@@ -6,13 +6,13 @@ summary:    Infrastructure as code.
 categories: terraform iac
 ---
 
-Files and folders:
+#### Files and Folders
 * `.tfstate` This stores the current configuration of your infrastructure.
 * `.tf` This is a terraform configuration file which defines what your infrastructure should be like.
 * `.terraform` This is a folder which stores your local state.
 * `.tfstate.backup` Stores the result of a terraform plan? Not sure about the purpose.
 
-
+#### Commands
 Initialise a working directory with the `.tf` configuration files you've written. This creates the `.terraform` folder and a remote `.tfstate` if you've configured a [backend](https://www.terraform.io/docs/backends) in your `.tf` files.
 ```
 terraform init
