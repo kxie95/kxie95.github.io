@@ -1,16 +1,34 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
-date:       2015-07-11
-summary:    Now, Pixyll is lighter weight and more customizable than before.
-categories: jekyll pixyll
+title:      Terraform Basics
+date:       2017-09-19
+summary:    Infrastructure as code.
+categories: terraform iac
 ---
 
-In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
+Files and folders:
+* *.tfstate* This stores the current configuration of your infrastructure.
+* *.tf* This is a terraform configuration file which defines what your infrastructure should be like.
+* *.terraform* This is a folder which stores your local state.
+* *.tfstate.backup* Stores the result of a terraform plan? Not sure about the purpose.
 
-Pixyll now features:
 
-* Line anchors in code blocks and new syntax highlighting
-* A customizable variables file
-* Modular, and lighter weight CSS
-* No more `max-width` media queries
+Initialise a working directory with the .tf configuration files you've written. This creates the .terraform folder and a remote .tfstate if you've configured a [backend](https://www.terraform.io/docs/backends) in your .tf files.
+```
+terraform init
+```
+
+Import state into your local from your existing infrastructure. Check the correct syntax at [the docs](https://www.terraform.io/docs/commands/import.html).  
+```
+terraform import [parameters] ID
+```
+
+Check your local state against where your remote state is.
+```
+terraform plan
+```
+
+Apply the changes from terraform plan.
+```
+terraform apply
+```
