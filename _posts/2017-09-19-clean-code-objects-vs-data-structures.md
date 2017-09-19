@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Clean Code: Data structures vs. Objects
+title:      Clean Code: Data structures vs Objects
 date:       2017-09-19
-summary:    What is the difference and why does it matter?
-categories: javascript notes
+summary:    
+categories: clean code data structures objects
 ---
 * Data structures expose their data and have no behaviours.
 * Objects expose their behaviours which act on their data which is hidden behind abstractions.
