@@ -2,7 +2,7 @@
 layout:     post
 title:      Clean Code: Data structures vs Objects
 date:       2017-09-19
-summary:    
+summary:    What is the difference and why does it matter?
 categories: clean code data structures objects
 ---
 
