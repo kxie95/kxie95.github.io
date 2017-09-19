@@ -2,7 +2,7 @@
 layout:     post
 title:      "Clean Code: Data Structures vs. Objects"
 date:       2017-09-19
-summary:    Why does it matter
+summary:    ""
 categories: data structures objects cleancode
 ---
 
