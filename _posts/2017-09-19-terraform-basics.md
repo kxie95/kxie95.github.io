@@ -2,7 +2,7 @@
 layout:     post
 title:      Terraform Basics
 date:       2017-09-19
-summary:    Infrastructure as code.
+summary:    Defines all your infrastructure as code. I learned this through a lot of trial and error over the course of a week.
 categories: terraform iac
 ---
 
