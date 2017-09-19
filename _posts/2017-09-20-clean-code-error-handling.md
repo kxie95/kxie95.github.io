@@ -23,6 +23,6 @@ Use exceptions.
 #### Define the normal flow
 * Special Case Pattern - create a class so that it handles a special case for you.  
 
-### Don't return null
+#### Don't return null
 * This will make your whole application check for nulls.
 * Throw an exception or return a special case object instead.
