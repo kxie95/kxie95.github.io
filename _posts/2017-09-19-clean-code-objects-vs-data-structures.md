@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Clean Code: Data structures vs Objects
+title:      Data Structures vs Objects
 date:       2017-09-19
-summary:    What is the difference and why does it matter?
-categories: clean code data structures objects
+summary:    Why does it matter
+categories: data structures objects cleancode
 ---
 
 * Data structures expose their data and have no behaviours.
