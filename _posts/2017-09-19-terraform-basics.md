@@ -7,28 +7,34 @@ categories: terraform iac
 ---
 
 #### Files and Folders
-* `.tfstate` This stores the current configuration of your infrastructure.
-* `.tf` This is a terraform configuration file which defines what your infrastructure should be like.
-* `.terraform` This is a folder which stores your local state.
-* `.tfstate.backup` Stores the result of a terraform plan? Not sure about the purpose.
+* `.tfstate` Stores the current configuration of your infrastructure. This can be local and remote (see: [terraform backend](https://www.terraform.io/docs/backends)).
+* `.tf` Terraform configuration file which defines the parameters of your infrastructure.
+* `.terraform` This is a folder which stores your state.
+* `.tfstate.backup` Stores the result of a terraform plan? Not entirely sure of the purpose.
 
 #### Commands
-Initialise a working directory with the `.tf` configuration files you've written. This creates the `.terraform` folder and a remote `.tfstate` if you've configured a [backend](https://www.terraform.io/docs/backends) in your `.tf` files.
+
 ```
 terraform init
 ```
+Initialises a `.terraform` working directory and a blank `.tfstate`.
 
-Import state into your local from your existing infrastructure. Check the correct syntax at [the docs](https://www.terraform.io/docs/commands/import.html).  
+
 ```
 terraform import [parameters] ID
 ```
+Imports state into your `.tfstate` from your existing infrastructure. Check the correct syntax at [the docs](https://www.terraform.io/docs/commands/import.html).
+  
 
-Check your local state against where your remote state is.
+
 ```
 terraform plan
 ```
+Checks your `.tfstate` against what you've configured in your `.tf` files.
 
-Apply the changes from terraform plan.
+
 ```
 terraform apply
 ```
+Applies the changes from terraform plan.
+
