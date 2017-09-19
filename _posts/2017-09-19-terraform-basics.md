@@ -24,7 +24,6 @@ Initialises a `.terraform` working directory and a blank `.tfstate`.
 terraform import [parameters] ID
 ```
 Imports state into your `.tfstate` from your existing infrastructure. Check the correct syntax at [the docs](https://www.terraform.io/docs/commands/import.html).
-  
 
 
 ```
@@ -36,5 +35,4 @@ Checks your `.tfstate` against what you've configured in your `.tf` files.
 ```
 terraform apply
 ```
-Applies the changes from terraform plan.
-
+Applies the changes (if any) specified in `terraform plan`. Be very careful with this command!
