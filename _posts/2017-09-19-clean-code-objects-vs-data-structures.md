@@ -5,8 +5,6 @@ date:       2017-09-19
 summary:    What is the difference and why does it matter?
 categories: javascript notes
 ---
-
-#### Data structures vs. Objects  
 * Data structures expose their data and have no behaviours.
 * Objects expose their behaviours which act on their data which is hidden behind abstractions.
 * Hiding implementation is not just about wrapping it in a function. It's about the abstraction. See below.
