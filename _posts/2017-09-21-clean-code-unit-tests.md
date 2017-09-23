@@ -17,3 +17,10 @@ categories: clean code unit tests
 * **Tests enable change**: Tests verify that what you have done does not break existing code.
 * **Clean tests** are readable: They are clear, simple and say a lot with few expressions.
 * Refactor your test code!
+
+#### Guidelines for writing unit tests
+* One assert per test/reduce the number of asserts per test
+* Single concept per test
+* **F.I.R.S.T** - Fast, Independent, Repeatable, Self-validating, Timely.  
+
+Take care of your test code or your production code will rot!
