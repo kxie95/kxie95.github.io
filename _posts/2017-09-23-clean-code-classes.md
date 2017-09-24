@@ -23,4 +23,11 @@ categories: clean code classes
 * Then make little changes one by one.  
 
 #### Organising for change
-* TBC
+* Organise classes to reduce risk of change.
+* OCP - classes should be open for extension but closed for modification.
+* Pg 147-148 has an example of splitting up and SQL class into classes for selecting, creating, inserting...
+
+#### Isolating for change
+* A client class depending upon concrete details is at risk when those details change.
+* Use interfaces to do this.
+* DIP - classes should depend upon abstractions, not on concrete details.
