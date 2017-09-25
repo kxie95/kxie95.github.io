@@ -25,5 +25,5 @@ categories: clean code systems
 
 #### Cross-cutting concerns
 * Concerns which are needed throughout the application, such as logging, security and persistence.
-![cross cutting concerns](../images/cross-cutting-concerns.png)
+![_config.yml]({{ site.baseurl }}/images/cross-cutting-concerns.PNG)
 * Convention over configuration - eg. entity details contained within annotations.
