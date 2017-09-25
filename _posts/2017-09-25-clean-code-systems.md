@@ -21,4 +21,9 @@ categories: clean code systems
 * These other objects are usually the **main** routine or a special-purpose **container**.
 
 #### Scaling Up
-* TBC
+* We never get systems right the first time.
+
+#### Cross-cutting concerns
+* Concerns which are needed throughout the application, such as logging, security and persistence.
+![cross cutting concerns](../images/cross-cutting-concerns.png)
+* Convention over configuration - eg. entity details contained within annotations.
