@@ -42,4 +42,4 @@ categories: clean code systems
 #### Systems need domain-specific languages
 * DSLs allow all levels of abstruaction and all domains in the application to be expressed as POJOs, from high-level policy to low-level details.  
 
-**TLDR: Intent should be clear at all levels of abstraction. Never forget to use the simplest thing that can possibly work.
+**TLDR: Intent should be clear at all levels of abstraction. Never forget to use the simplest thing that can possibly work.**
