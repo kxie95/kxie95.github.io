@@ -33,7 +33,7 @@ categories: clean code systems
 * Summary: An optimal system architecture consists of **modularised domains of concern**, each of which is implemented with POJOs or objects which aren't tied to a particular framework or implementation. The different domains are **integrated together with minimally invasive Aspects** or Aspect-like tools. This **architecture can be test-driven**, just like the code.
 
 #### Optimise decision making
-* Postpone decisions unitl the last possible moment.
+* Postpone decisions until the last possible moment.
 
 #### Use standards wisely, when they add demonstrable value
 * Standards make it easier to: reuse ideas, recruit people, encapsulate good ideas and wire components together.
