@@ -24,6 +24,22 @@ categories: clean code systems
 * We never get systems right the first time.
 
 #### Cross-cutting concerns
-* Concerns which are needed throughout the application, such as logging, security and persistence.
-![_config.yml]({{ site.baseurl }}/images/cross-cutting-concerns.PNG)
+* Concerns which are needed throughout the application, such as logging, security and persistence.  
 * Convention over configuration - eg. entity details contained within annotations.
+
+#### Test Drive the System Architecture
+* Can make radical change if the structure of the software separates its conerns effectively.
+* Have expectations of the general scope, goals and schedule and general structure of the resulting system.
+* Summary: An optimal system architecture consists of **modularised domains of concern**, each of which is implemented with POJOs or objects which aren't tied to a particular framework or implementation. The different domains are **integrated together with minimally invasive Aspects** or Aspect-like tools. This **architecture can be test-driven**, just like the code.
+
+#### Optimise decision making
+* Postpone decisions unitl the last possible moment.
+
+#### Use standards wisely, when they add demonstrable value
+* Standards make it easier to: reuse ideas, recruit people, encapsulate good ideas and wire components together.
+* Standards make it hard to: move fast at times and can lose touch with the real needs of the adopters they are intended to serve.
+
+#### Systems need domain-specific languages
+* DSLs allow all levels of abstruaction and all domains in the application to be expressed as POJOs, from high-level policy to low-level details.  
+
+**TLDR: Intent should be clear at all levels of abstraction. Never forget to use the simplest thing that can possibly work.
