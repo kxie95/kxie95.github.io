@@ -10,6 +10,6 @@ categories: presentation speaking nervousness
 
 ### What I could do better for next time
 * Pace - I definitely felt myself talking faster.
-* Voice - Didn't have the most clarity due to nervousness (my whole stomach was turning inside out). 
+* Voice - Clarity in my voice was lacking due to nervousness (my whole stomach was turning inside out). 
 
 I'm sure there are plenty more things I could improve on but I will focus on these ones :).
