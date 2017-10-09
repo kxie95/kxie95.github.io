@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Continuous Retrospectives"
+title:      "Talk: Continuous Retrospectives by Linda Rising"
 date:       2017-10-06 07:40:00
 summary:    "" 
 categories: linda rising continuous retrospectives 
