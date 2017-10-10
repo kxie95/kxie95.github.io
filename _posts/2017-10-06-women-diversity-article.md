@@ -34,7 +34,7 @@ Different personalities encountered
 * I have to fight to talk  
 
 I felt like I was overly sensitive compared to other people  
-* There was a time where I could not take the jokes which made me feel undervalued. Things such as "grads are cheap labour" were thrown around here and there. Things like "grads are actually very expensive because a senior has to look after them" were all things that made me feel upset. I don't believe the people who said these things had ill intentions, that's just the type of humour they enjoy. 
+* There was a time where I could not take the jokes which made me feel undervalued. Things such as "grads are cheap labour" and "grads are actually very expensive because a senior has to look after them" were thrown around and were things that made me feel upset. I don't believe the people who said these things had ill intentions, that's just the type of humour they enjoy. 
 * You could argue that although the intention was not bad, people should still watch what they say. I agree and disagree - I agree because words can impact someone for life but I disagree because if we have to watch so closely the things we say, this can result in an uptight atmosphere. 
 * In the end, it all comes down to the relationship - the closer you are with someone, the less you will need to watch your words because you are aware of their intent. As I was not close to any of these people, what they said I took word for word to heart.
 * I never felt this way in my day to day life with other people. Then I realised the people I hang around all have similar mindsets so there is rarely any friction between us.  
