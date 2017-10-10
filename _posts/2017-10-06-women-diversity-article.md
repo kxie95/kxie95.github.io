@@ -5,7 +5,9 @@ date:       2017-10-06 16:40:00
 summary:    "" 
 categories: diversity tech industry software women
 ---
-Some preliminary notes on an article I will eventually write about my experiences as a woman in the software industry.  
+Some preliminary notes on an article I will eventually write about my experiences as a woman in the software industry.   
+
+**Everything I've written here is a brain dump and I have not had a look at other people's opinions yet.**  
 
 ### What is diversity? Why is it such a popular topic right now?
 What I think it is: How many different backgrounds the workforce is made up of.  
