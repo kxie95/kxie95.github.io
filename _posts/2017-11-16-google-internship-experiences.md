@@ -7,6 +7,7 @@ categories: google internship
 ---
 Will be doing a brown bag on this.   
 
+### Notes
 Intro - outline the talk
 * Going to be more about the culture and mentorship over the technical stuff.  
 
@@ -32,10 +33,18 @@ Culture
 * Many tech talks and events to go to and there is no obligation to tell your manager about it.
 * Not much pairing or mobbing - work is very individual but people are very open to asking around.
 * Games everywhere. I still don't know how I got stuff done.
-* Everyone was very friendly and I think this is the contagious culture of Googliness.
+* Everyone was very friendly and I think this is due to the contagious culture of Googliness.
 * Fun things: TotT, TGIFs, intern-host events, free swag, giant learning library.
 
 Processes
 * Extremely streamlined - so easy to book meeting rooms, present things on the screen.  
 
-* Optionally talk about interviewing for a full-time role. Super tough - systems design interviews, algorithms, technolgies.
+### Outline
+* Intro
+* Interview Process
+* Onboarding
+* Environment
+* Culture
+* Processes
+* Internship
+* Summary
