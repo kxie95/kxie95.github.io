@@ -10,7 +10,7 @@ Some preliminary notes on an article I will eventually write about my experience
 **Everything I've written here is a brain dump (like the rest of my posts) and I have not had a look at other people's opinions yet.**  
 
 ### What is diversity in the context of the tech industry?
-What I think it is: Having a range of different backgrounds (gender, culture, etc.) in the tech industry.  
+Having a range of different backgrounds (gender, culture, etc.) in the tech industry. Diversity is *not* limited to having women in the industry, although this has mainly been the main focus because it's the most obvious form of diversity we're lacking.  
 
 ### Why does it matter?
 * As long as we hire the best programmers everything should be fine right?  
@@ -25,7 +25,7 @@ What I think it is: Having a range of different backgrounds (gender, culture, et
 * We shouldn't be specifically hunting out females/other minorities for the industry. We should not be poaching from other companies either because that doesn't increase the population of the minorities in the industry.
 * We definitely should not lower the bar for them either. 
 * We should increase retention - I remember reading some article about how women were leaving the engineering industry within X number of years. (TODO: find source)
-* We need to start from an earlier age - part of the problem is ingrained within our culture. Possibly the hobbies we encourage, or the mannerisms we expect women to have.
+* We need to start from an earlier age - part of the problem is ingrained within our culture. Possibly the hobbies, habits and minsets we encourage women to have.
 * We need ways to help it thrive. With diversity there can be a lot more friction because of the different mindsets. Need a safe environment where people can rub ideas off on each other.
 
 TODO: Have a look at books/articles.
