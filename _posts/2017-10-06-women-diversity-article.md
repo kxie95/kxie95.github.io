@@ -2,12 +2,10 @@
 layout:     post
 title:      "Diversity in the Software Industry"
 date:       2017-10-06 16:40:00
-summary:    "" 
+summary:    "Some preliminary notes on an article I intent to write." 
 categories: diversity tech industry software women
 ---
-Some preliminary notes on an article I will eventually write about my experiences as a woman in the software industry.   
-
-**Everything I've written here is a brain dump (like the rest of my posts) and I have not had a look at other people's opinions yet.**  
+Some preliminary notes on an article I will eventually write about my experiences as a woman in the software industry. **Everything I've written here is a brain dump (like the rest of my posts) and I have not had a look at other people's opinions yet.**  
 
 ### What is diversity in the context of the tech industry?
 Having a range of different backgrounds (gender, culture, etc.) in the tech industry. Diversity is *not* limited to having women in the industry, although this has mainly been the focus because it's the most obvious part we're lacking.  
@@ -38,14 +36,14 @@ I don't believe I have experienced any direct form of sexism, but a very subtle 
 
 I felt like I was overly sensitive compared to other people.  
 * There was a time where I could not take the jokes which made me feel undervalued. Things such as "grads are cheap labour" and "grads are actually very expensive because a senior has to look after them" were thrown around and were things that made me feel upset. I don't believe the people who said these things had ill intentions, that's just the type of humour they enjoy. 
-* You could argue that although the intention was not bad, people should still watch what they say. I agree and disagree - I agree because words can impact someone for life but I disagree because if we have to watch so closely the things we say, this can result in an uptight atmosphere. 
+* You could argue that although the intention was not bad, people should still watch what they say. I agree and disagree - I agree because words can impact someone for life. I disagree because if we have to watch so closely the things we say, this can result in an uptight atmosphere. 
 * In the end, it all comes down to the relationship - the closer you are with someone, the less you will need to watch your words because you are aware of their intent. As I was not close to any of these people, what they said I took word for word to heart.
 * I never felt this way in my day to day life with other people. Then I realised the people I hang around all have similar mindsets so there is rarely any friction between us.  
 
 I felt pressured to perform because I didn't want people to think I was hired because of my gender. 
 * A classmate once commented that I was only hired as an intern at Google because of my gender.  
 
-Lack of awareness of this issue
+Lack of awareness/visibilty of this issue.
 * People I have spoken to don't believe there are any problems because they don't see them. Caveat is they aren't in the same position as I or many other female engineers are in.
 * It's almost like an invisible illness.
 
