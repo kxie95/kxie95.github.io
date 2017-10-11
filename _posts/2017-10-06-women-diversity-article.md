@@ -22,7 +22,7 @@ What I think it is: Having a range of different backgrounds (gender, culture, et
 
 ### How should we do it?
 * Hire based on potential and passion for the industry.  
-* We shouldn't be specifically hunting out females/other minorities in the industry.
+* We shouldn't be specifically hunting out females/other minorities for the industry. We should not be poaching from other companies either because that doesn't increase the population of the minorities in the industry.
 * We definitely should not lower the bar for them either. 
 * We should increase retention - I remember reading some article about how women were leaving the engineering industry within X number of years. (TODO: find source)
 * We need to start from an earlier age - part of the problem is ingrained within our culture. Possibly the hobbies we encourage, or the mannerisms we expect women to have.
