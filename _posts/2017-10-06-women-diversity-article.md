@@ -9,22 +9,21 @@ Some preliminary notes on an article I will eventually write about my experience
 
 **Everything I've written here is a brain dump (like the rest of my posts) and I have not had a look at other people's opinions yet.**  
 
-### What is diversity? Why is it such a popular topic right now?
-What I think it is: How many different backgrounds the workforce is made up of.  
+### What is diversity in the context of the tech industry?
+What I think it is: Having a range of different backgrounds (gender, culture, etc.) in the tech industry.  
+* There is not a great representation of the human population working in this industry. 
 
-Diversity in the technology/software industry is a popular topic right now because people have noticed that there is not a great representation of the human population working in this industry. Why is this important? As long as we hire the best programmers everything should be fine right?  
+### Why does it matter?
+* As long as we hire the best programmers everything should be fine right?  
+* Some study (to find source) - a team of high performers vs. a team of diverse people from different backgrounds showed that the diverse team produced greater results. Not sure if true and I need to read up on the results of this and how they conducted this experiment.  
+* I believe we do need more diversity in the tech industry because having a workforce which is more representative of your customer base is incredibly valuable. If I hire people who only love to code and have no actual knowledge of who they're building their software for, how are they going to build software that their customers find useful? Then you might say, that's the BA's job right? Well now you're limiting the creativity of the design up to a few people - your BAs, UX designers and product managers. Imagine how much more awesome the product could be if everyone understood the customer or *is* the customer.    
 
-Some study (to find source) - a team of high performers vs. a team of diverse people from different backgrounds showed that the diverse team produced greater results. Not sure if true and I need to read up on the results of this and how they conducted this experiment.  
-
-I believe we do need more diversity in the tech industry because having a workforce which is more representative of your customer base is incredibly valuable. If I hire people who only love to code and have no actual knowledge of who they're building their software for, how are they going to build software that their customers find useful? Then you might say, that's the BA's job right? Well now you're limiting the creativity of the design up to a few people - your BAs, UX designers and product managers. Imagine how much more awesome the product could be if everyone understood the customer or *is* the customer.    
-
-I do not believe we should just hire the best programmers - this gives you a very narrow vision. They may be the best programmers at the time, but if they are not invested in the long run your company is going to go down. I believe we need to hire people based on their potential and passion for the industry.  
-
-I'm not sure if we should be specifically hunting out females/other minorities in the industry though. We definitely should not lower the bar for them either. However, we should have things in place to make it so they will succeed and have fulfulling careers.  
-
-If we want to bring more diversity into the industry, we need to start from an earlier age.  
-
-We also have problems with retaining females in the industry.  
+### How should we do it?
+* Hire based on potential and passion for the industry.  
+* We shouldn't be specifically hunting out females/other minorities in the industry.
+* We definitely should not lower the bar for them either. 
+* We should increase retention - I remember reading some article about how women were leaving the engineering industry within X number of years. (TODO: find source)
+* We need to start from an earlier age - part of the problem is ingrained within our culture. Possibly the hobbies we encourage, or the mannerisms we expect women to have.  
 
 TODO: Have a look at books/articles.
 
@@ -42,7 +41,12 @@ I felt like I was overly sensitive compared to other people
 I felt pressured to perform because I didn't want people to think I was hired because of my gender  
 * A classmate once commented that I was only hired as an intern at Google because of my gender.  
 
-I haven't experienced any direct form of sexism - I think in NZ it's much more subtle. Bigger issue is problem lack of awareness - people I have spoken to don't believe there are any problems because they don't see them. Caveat is they aren't in the same position as I or many other female engineers are in.
+I don't believe I have experienced any direct form of sexism, but a very subtle form of it.
+* It's hard to tell whether it's my age, personality, or actually just my gender. So many factors play into it.
+* I know my female friends in other industries have experienced not being taken as seriously because of their gender.  
+
+Bigger issue is problem lack of awareness
+* People I have spoken to don't believe there are any problems because they don't see them. Caveat is they aren't in the same position as I or many other female engineers are in.
 
 ### What helped me:
 Great leadership  
