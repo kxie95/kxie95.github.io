@@ -11,19 +11,22 @@ Some preliminary notes on an article I will eventually write about my experience
 
 ### What is diversity in the context of the tech industry?
 What I think it is: Having a range of different backgrounds (gender, culture, etc.) in the tech industry.  
-* There is not a great representation of the human population working in this industry. 
 
 ### Why does it matter?
 * As long as we hire the best programmers everything should be fine right?  
 * Some study (to find source) - a team of high performers vs. a team of diverse people from different backgrounds showed that the diverse team produced greater results. Not sure if true and I need to read up on the results of this and how they conducted this experiment.  
-* I believe we do need more diversity in the tech industry because having a workforce which is more representative of your customer base is incredibly valuable. If I hire people who only love to code and have no actual knowledge of who they're building their software for, how are they going to build software that their customers find useful? Then you might say, that's the BA's job right? Well now you're limiting the creativity of the design up to a few people - your BAs, UX designers and product managers. Imagine how much more awesome the product could be if everyone understood the customer or *is* the customer.    
+* There is not a great representation of the human population working in this industry. 
+* I believe we do need more diversity in the tech industry because having a workforce which is more representative of your customer base is incredibly valuable. If we hire people who only love to code and have no actual knowledge of who they're building their software for, how are they going to build software that their customers find useful? 
+* That's the BA's job right? Well now we're limiting the creativity of the design up to a few people; to our BAs, UX designers and product managers. Imagine how much more awesome the product could be if everyone understood the customer or *is* the customer.
+* Getting people from different backgrounds drives creativity and can result in a better solution in the long run.    
 
 ### How should we do it?
 * Hire based on potential and passion for the industry.  
 * We shouldn't be specifically hunting out females/other minorities in the industry.
 * We definitely should not lower the bar for them either. 
 * We should increase retention - I remember reading some article about how women were leaving the engineering industry within X number of years. (TODO: find source)
-* We need to start from an earlier age - part of the problem is ingrained within our culture. Possibly the hobbies we encourage, or the mannerisms we expect women to have.  
+* We need to start from an earlier age - part of the problem is ingrained within our culture. Possibly the hobbies we encourage, or the mannerisms we expect women to have.
+* We need ways to help it thrive. With diversity there can be a lot more friction because of the different mindsets. Need a safe environment where people can rub ideas off on each other.
 
 TODO: Have a look at books/articles.
 
