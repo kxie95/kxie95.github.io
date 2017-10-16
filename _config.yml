@@ -4,7 +4,7 @@ email:       karen-x@outlook.com
 author:      Karen Xie
 description: "A brain dump of things I learn. They might make sense."
 baseurl:     ""
-url:         "http://kxie95.github.io"
+url:         "http://xiekaren.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - search.html
