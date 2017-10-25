@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Refactoring to Patterns: Intro & Chapter 2"
-date:       2017-11-20 08:03:00
+date:       2017-10-26 08:03:00
 summary:    "" 
 categories: refactoring patterns book
 ---
