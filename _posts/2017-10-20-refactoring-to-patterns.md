@@ -26,4 +26,15 @@ Need many eyes to make things better.
 Design debt occurs when you don't consistently:
 1. Remove duplication
 2. Simplify your code
-3. Clarify your code's intent
+3. Clarify your code's intent  
+
+### Composite and Test-Driven Refactorings
+* **Composite refactorings** are high-level refacorings composed of low-level refactorings
+* **Low-level refactorings**: Extract Method, Pull Up Method to superclass, Extract Class, Move method to another class. You must/should run tests.
+* **Test-driven refactoring**: Applying TDD to produce replacement code then swap out old code for new code. Old tests and rerun. Helps you produce new design safely.
+* Good to use test-driven refactoring when numerous classes need to be updated.  
+
+### Benefits of Composite Refactorings
+* Describes a safer refactoring sequence to take.
+* Suggests non-obvious design directions.
+* Provide insights into implementing patterns.
