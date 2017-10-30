@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Webpack notes"
-date:       2017-11-16 16:40:00
+date:       2017-10-16 16:40:00
 summary:    "" 
 categories: webpack
 ---

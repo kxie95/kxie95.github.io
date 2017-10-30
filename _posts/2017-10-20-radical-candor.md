@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Radical Candor"
-date:       2017-11-20 08:03:00
+date:       2017-10-21 08:03:00
 summary:    "" 
 categories: radical candor
 ---
