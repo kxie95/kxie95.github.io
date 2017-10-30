@@ -8,5 +8,6 @@ categories: learning systemsthinking
 
 Understanding living systems: Santiago theory of cognition
 * Eg. camera vs humans
-* Human being do not perceive their reality - we don't just record information
+* Human beings do not perceive their reality - we don't just record information
 * We see the world we know how to perceive
+* Everyone has their own reality - you say one thing but the other person may hear another.
