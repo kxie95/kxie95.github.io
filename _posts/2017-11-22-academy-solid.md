@@ -7,7 +7,7 @@ categories: academy solid
 ---
 
 ### Single Responsibility Principle
-**A software module should have one and one reason to change.**  
+**A software module should have one and only one reason to change.**  
 We want cohesion between things that change for the same reason, and we want to decrease the coupling between those things that change for different reasons.  
 
 Here is an example of something that breaks the SRP:
@@ -19,12 +19,11 @@ public class Game() {
     public void ValidateMove();
 }
 ```
-This example breaks the SRP because `Game` is doing too many things. A game should only be concerned with starting, ending and making moves.  
-Some other class should be looking into checking if there there is a win or validating a move. I would move those methods into an `InputValidator` and `GameStateChecker` class.
+This example breaks the SRP because `Game` is doing too many things. A game should only be concerned with starting, ending and making moves. Some other class should be looking into checking if there there is a win or validating a move. I would move those methods into an `InputValidator` and `GameStateChecker` class.
 
 ### Open-closed principle
 **A software module should be open for extension and closed for modification.**  
-Functionality should be added to a module without having to modify the internal workings of it. We should write code that doesn't have to be changed everytime we need new functionality. Dependency Inversion and subclassing are examples of ways to apply this principle.  
+Functionality should be added to a module without having to modify the internal workings of it. By applying this principle, less work is required to adjust for new functionality to the code, and will make it safer too add new functionality too. 
 
 Here is an example of code that breaks the OCP:  
 ```
@@ -61,7 +60,7 @@ public class Book() {
 public class TextBook extends Book() {...}
 public class KindleBook extends Book() {...} 
 ```
-`KindleBook` can turn pages, but won't function unless it has at least 1% battery. So if we were to call substitute a call to `TurnPage()` somewhere in the code, ignoring the fact that we need power, this could break the code.
+`KindleBook` can turn pages, but won't function unless it has at least 1% battery. So if we were to substitute a call to `Book.TurnPage()` with `KindleBook.TurnPage()` somewhere in the code, ignoring the fact that we need power, this could break the code.
 
 ### Interface Segregation Principle
 **To be continued**  
