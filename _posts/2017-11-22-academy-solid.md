@@ -8,7 +8,7 @@ categories: academy solid
 
 ### Single Responsibility Principle
 **A software module should have one and one reason to change.**  
-Just another way of defining separation of concerns, cohesion and coupling. We want cohesion between things that change for the same reason, and we want to decrease the coupling between those things that change for different reasons.  
+We want cohesion between things that change for the same reason, and we want to decrease the coupling between those things that change for different reasons.  
 
 Here is an example of something that breaks the SRP:
 ```
@@ -24,7 +24,7 @@ Some other class should be looking into checking if there there is a win or vali
 
 ### Open-closed principle
 **A software module should be open for extension and closed for modification.**  
-You should be able to add functionality to a module without modifying the internal workings of it. We should write code that doesn't have to be changed everytime the requirements change. This can be done through dependency inversion or subclassing, for example.  
+Functionality should be added to a module without having to modify the internal workings of it. We should write code that doesn't have to be changed everytime we need new functionality. Dependency Inversion and subclassing are examples of ways to apply this principle.  
 
 Here is an example of code that breaks the OCP:  
 ```
@@ -47,10 +47,10 @@ public void DoActionForKeyPress(string key) {
     _keyActions[key]();
 }
 ```
-We introduce a field which is injected through a constructor. Now everytime we need a new action for a key press, we simply provide it ourselves, rather than having to add new code inside the method everytime. The modification of behaviour is now outside of the method (hence the method is closed for modification).  
+We introduce a field which is injected into the class. With this new implementation, everytime we need a new action for a key press we simply provide it ourselves, rather than having to add new code inside the method everytime. The modification of behaviour is now outside of the method (hence the method is closed for modification).
 
 ### Liskov Substitution Principle
-**A class can be substituted with any of its subclasses and not break anything.**
+**A class can be substituted with any of its subclasses and not break anything.**  
 This principle is all about forming the correct abstractions.  
 
 For example:
