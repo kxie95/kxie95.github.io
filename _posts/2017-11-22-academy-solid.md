@@ -6,8 +6,6 @@ summary:    ""
 categories: academy solid
 ---
 
-# SOLID
-
 ### Single Responsibility Principle
 **A software module should have one and one reason to change.**  
 Just another way of defining separation of concerns, cohesion and coupling. We want cohesion between things that change for the same reason, and we want to decrease the coupling between those things that change for different reasons.  
