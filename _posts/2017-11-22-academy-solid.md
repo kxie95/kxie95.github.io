@@ -6,7 +6,7 @@ summary:    ""
 categories: academy solid
 ---
 
-### Single Responsibility Principle
+## Single Responsibility Principle
 **A software module should have one and only one reason to change.**  
 We want cohesion between things that change for the same reason, and we want to decrease the coupling between those things that change for different reasons.  
 
@@ -19,11 +19,11 @@ public class Game() {
     public void ValidateMove();
 }
 ```
-This example breaks the SRP because `Game` is doing too many things. A game should only be concerned with starting, ending and making moves. Some other class should be looking into checking if there there is a win or validating a move. I would move those methods into an `InputValidator` and `GameStateChecker` class.
+This example breaks the SRP because `Game` is doing too many things. A game should only be concerned with starting, ending and making moves. I would move those methods out into classes concerned wtih validation and checking state.
 
-### Open-closed principle
+## Open-closed principle
 **A software module should be open for extension and closed for modification.**  
-Functionality should be added to a module without having to modify the internal workings of it. By applying this principle, less work is required to adjust for new functionality to the code, and will make it safer too add new functionality too. 
+Functionality should be added to a module without having to modify the internal workings of it. By applying this principle, less work is required to adjust for new functionality to the code, and will make it safer to add new functionality too. 
 
 Here is an example of code that breaks the OCP:  
 ```
@@ -48,7 +48,7 @@ public void DoActionForKeyPress(string key) {
 ```
 We introduce a field which is injected into the class. With this new implementation, everytime we need a new action for a key press we simply provide it ourselves, rather than having to add new code inside the method everytime. The modification of behaviour is now outside of the method (hence the method is closed for modification).
 
-### Liskov Substitution Principle
+## Liskov Substitution Principle
 **A class can be substituted with any of its subclasses and not break anything.**  
 This principle is all about forming the correct abstractions.  
 
