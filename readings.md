@@ -7,13 +7,13 @@ permalink: /reading-list/
 
 **✓ for good reads**  
 
-## Reading
+### Reading
 ✓ Apprenticeship Patterns *by David H. Hoover & Adewale Oshineye*
 
-## Want to read
+### To read
 5 Voices *Jeremie Kubicek and Steve Cockram*  
 
-## Finished reading 
+### Finished 
 ✓ Clean Code *by Robert C. Martin*  
 ✓ Passionate Programmer *by Chad Fowler*  
   Testable Javascript *by Mark Ethan Trostler*
