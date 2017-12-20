@@ -7,6 +7,7 @@ baseurl:     ""
 url:         "http://xiekaren.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
+ - readings.md
  - search.html
  - contact.html
 
@@ -51,7 +52,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username: kxie95
+github_username: xiekaren
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
