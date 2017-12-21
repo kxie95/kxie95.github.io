@@ -8,7 +8,8 @@ permalink: /reading-list/
 **✓ for good reads**  
 
 ### Reading
-✓ Apprenticeship Patterns *by David H. Hoover & Adewale Oshineye*
+Apprenticeship Patterns *by David H. Hoover & Adewale Oshineye*  
+Refactoring *by Martin Fowler*  
 
 ### To read
 5 Voices *Jeremie Kubicek and Steve Cockram*  
