@@ -5,6 +5,5 @@ date:       2017-10-06 07:40:00
 summary:    "" 
 categories:  
 ---
-https://www.thoughtworks.com/insights/blog/how-be-junior-software-developer
+[ThoughtWorks - How to be a Junior Developer](https://www.thoughtworks.com/insights/blog/how-be-junior-software-developer)
 
-^To read
