@@ -5,10 +5,8 @@ description: "List of books I want to read, are reading and have read."
 permalink: /reading-list/
 ---
 
-**✓ for good reads**  
-
+## Reading List
 ### Reading
-Apprenticeship Patterns *by David H. Hoover & Adewale Oshineye*  
 Refactoring *by Martin Fowler*  
 
 ### To read
@@ -17,4 +15,8 @@ Refactoring *by Martin Fowler*
 ### Finished 
 ✓ Clean Code *by Robert C. Martin*  
 ✓ Passionate Programmer *by Chad Fowler*  
-  Testable Javascript *by Mark Ethan Trostler*
+✓ Apprenticeship Patterns *by David H. Hoover & Adewale Oshineye*  
+  Testable Javascript *by Mark Ethan Trostler*  
+
+## Blogs I follow
+[Code Simplicity - Max Kanat-Alexander](https://www.codesimplicity.com/)
