@@ -11,6 +11,8 @@ categories: refactoring martin fowler
 * Decompose and redistribute (for big methods)
 * Do changes in small steps  
 
+**Test, small change, test, small change, test...**
+
 ## Techniques
 **Renaming**  
 * Easier to understand the code as you're trying to refactor it.
@@ -24,4 +26,4 @@ categories: refactoring martin fowler
 * Eg. A temp variable which accumulates.
 * Extract this accumulation into its own method.
 * Call that method and remove all instances of the temp variable.
-* May reduce performance but cleaner code.
+* May reduce performance but cleaner code.  
