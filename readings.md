@@ -6,13 +6,13 @@ permalink: /reading-list/
 ---
 
 ### Books
-#### Reading
+#### Reading /////
 Refactoring *by Martin Fowler*  
 
-#### To read
+#### To read /////
 5 Voices *Jeremie Kubicek and Steve Cockram*  
 
-#### Finished 
+#### Finished /////
 ✓ Clean Code *by Robert C. Martin*  
 ✓ Passionate Programmer *by Chad Fowler*  
 ✓ Apprenticeship Patterns *by David H. Hoover & Adewale Oshineye*  
