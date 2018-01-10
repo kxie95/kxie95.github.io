@@ -11,5 +11,11 @@ categories: refactoring minesweeper
 `refactor` has the refactored version of my solution - I will be cleaning up and trying to taking a functional approach.  
 
 ## The journey
-* This solution is relatively well-tested, enough that it will pick up changes if the output is slightly wrong.
-* Let's start at `Minesweeper.cs`. I start by extracting out bits of functionality to make the solution more readable.
+This solution is relatively well-tested, enough that it will pick up changes if the output is slightly wrong.  
+
+Let's start at `Minesweeper.cs`. I start by extracting out bits of functionality to make the solution more readable.  
+
+Decided to process input altogether.  
+* Transform into list of `Field` objects -> create hints -> print out list.
+* Instead of transforming, creating hints then printing out for each field in the input.
+* Wrote top level test for transforming the input into a `Field` list.
