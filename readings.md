@@ -18,5 +18,5 @@ Refactoring *by Martin Fowler*
 ✓ Apprenticeship Patterns *by David H. Hoover & Adewale Oshineye*  
   Testable Javascript *by Mark Ethan Trostler*  
 
-### Blogs I follow
+### Blogs
 [Code Simplicity - Max Kanat-Alexander](https://www.codesimplicity.com/)
