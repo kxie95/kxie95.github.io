@@ -11,7 +11,10 @@ categories: refactoring martin fowler
 * Decompose and redistribute (for big methods)
 * Do changes in small steps  
 
-**Test, small change, test, small change, test...**
+**Test, small change, test, small change, test...**  
+
+## Principles in refactoring
+* **Three strikes and you refactor** - First time you do something, second time you do something similar, third time you do something similar again, refactor.
 
 ## Techniques
 **Renaming**  
