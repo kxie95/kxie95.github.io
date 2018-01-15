@@ -14,7 +14,17 @@ categories: refactoring martin fowler
 **Test, small change, test, small change, test...**  
 
 ## Principles in refactoring
-* **Three strikes and you refactor** - First time you do something, second time you do something similar, third time you do something similar again, refactor.
+**Three strikes and you refactor**  
+First time you do something, second time you do something similar, third time you do something similar again, refactor.  
+
+**Refactor when you add function**  
+Helps you add the function more easily.  
+
+**Refactor when you need to fix a bug**  
+Code was not clear enough for you to see the bug.    
+
+**Refactor as you do a code review**  
+Useful suggestions.  
 
 ## Techniques
 **Renaming**  
