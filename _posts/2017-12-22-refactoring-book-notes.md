@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Refactoring by Martin Fowler - Notes"
+title:      "Refactoring by Martin Fowler notes - Intro & Principles"
 date:       2017-12-22 09:00:00
 summary:    "" 
 categories: refactoring martin fowler
