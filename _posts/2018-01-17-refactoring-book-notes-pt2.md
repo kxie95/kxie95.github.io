@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Refactoring by Martin Fowler notes - Part 2"
-date:       2017-12-22 07:16:00
+date:       2018-01-22 07:16:00
 summary:    "Problems, Design and Performance." 
 categories: refactoring martin fowler
 ---
