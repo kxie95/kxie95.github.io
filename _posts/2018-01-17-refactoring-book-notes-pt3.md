@@ -16,7 +16,7 @@ There are two extreme approaches:
 
 Probably best to find some sort of middle ground.  
 
-With refactoring, the emphasis changes - you don't try to find *the* solution. Instead, you find the most *reasonable* solution until you learn more about the problem. As a result, it is better to focus on **simplicity of design**.  
+With refactoring, the emphasis changes - you don't try to find *the* solution. Instead, you find the most *reasonable* solution until you learn more about the problem. As a result, it is better to focus on **simplicity of design**, rather than flexibility.  
 
 This is interesting to me because in university, they always stressed building flexible software. Martin points out that that flexibility comes with a cost too. Flexible solutions are more complex than simple ones. Moreover, flexibility isn't really needed most of the time because you can never predict how the requirements of your software will change. Most of the time, **YAGNI**!
 
