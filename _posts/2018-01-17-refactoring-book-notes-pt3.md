@@ -22,3 +22,11 @@ This is interesting to me because in university, they always stressed building f
 
 With the refactoring approach you think of potential changes and still consider flexible solutions. **Ask yourself: "How difficult is it going to be to refactor a simple solution into the flexible solution?".** Most of the time the answer is "pretty easy".  
 
+## Refactoring and Performance
+
+> **"The secret to fast software... is to write tunable software first and then to tune it for sufficient speed."**
+
+* Changes to improve performance usually make the program harder to work with and slow development.
+* If you analyse most programs, they only waste time in a small fraction of their code. So no point optimising every piece of code.
+* Find where the slow parts are and optimise those bits.  
+

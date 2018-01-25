@@ -9,4 +9,4 @@ categories: functional elixir
 ## Functions
 * Last expression is the return of a function.
 
-## String 
+...tbc.
