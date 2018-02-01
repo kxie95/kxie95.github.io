@@ -37,7 +37,23 @@ categories: refactoring martin fowler
 * Primitives are just building blocks. Objects give you a better abstraction.
 
 **Switch statements**  
+* Switch statements are a form of duplication. This can usually be solved with polymorphism.
+
 **Parallel inheritance hierarchies**  
+* Everytime you make a subclass of one class, you also have to make a subclass of another. 
+* Don't really know when this would happen?
+
 **Lazy class**  
+* A class that isn't doing enough to pay for itself.
+* Eliminate it by collapsing the hierarchy or inlining a class.  
+
 **Speculative Generality**  
+* Thinking you might need something so you implement a more complex solution than you should.
+* eg. unnecessary delegations, hooks, abstract classes not doing much, only test cases using the class.  
+
+**Temporary Field**  
+* Instace field only set in certain circumstances (you expect an object to need all its variables).
+* Extract Class out of these orphan variables and put all the code that concerns the variables with it.
+
+**Message Chains**  
 ...
