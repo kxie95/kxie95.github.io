@@ -56,4 +56,22 @@ categories: refactoring martin fowler
 * Extract Class out of these orphan variables and put all the code that concerns the variables with it.
 
 **Message Chains**  
-...
+* When a client asks one object for another object, which the client asks for yet another object, which the client then asks for yet another object and so on.
+* Client is coupled to the structure of the navigation. Any change to the intermediate relationships causes the client to have to change.
+* Fix using extract method to take the piece of code that uses it and then move method to push it down the chain.  
+
+**Middle man**  
+* Encapsulation often comes with delegation. (eg. ask person if they're free for a meeting, they delegate to a calendar (but you don't care what they use)).
+* This can be taken too far - you look at a class and half its methods are delegating to another class.
+* In this case, remove the middle man if possible, or inline the method in the caller.  
+
+**Inappropriate Intimacy**  
+* "Sometimes classes become far too intimate and spend too much time delving in each others' private parts."
+* "Overintimate classes need to be broken up as lovers were in ancient days".  
+
+**Alternative Classes with Different Interfaces**  
+* Rename any classes that do the same thing but have different names.
+* Move methods into classes until the protocols are the same.  
+
+**Data class**  
+* Are these bad? This book suggests that they should develop into objects with responsibilities.  
