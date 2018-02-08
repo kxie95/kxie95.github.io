@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Refactoring by Martin Fowler Part 5"
-date:       2018-01-25 07:16:00
+date:       2018-02-08 07:16:00
 summary:    "Building tests" 
 categories: refactoring
 ---
