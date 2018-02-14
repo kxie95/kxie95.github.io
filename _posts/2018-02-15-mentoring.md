@@ -22,4 +22,9 @@ My mentor should know how I learn best (I should communicate that to them) and b
 ### Is a proactive learner
 My mentor should be someone who strives to improve themselves and their craft.  
 
+## Blog posts to read
+[Mentoring & giving feedback - 8th Light](https://8thlight.com/blog/mike-jansen/2013/01/13/mentoring-and-giving-feedback.html)  
+[Advice for novice mentors - 8th Light](https://8thlight.com/blog/eric-meyer/2012/05/08/advice-for-new-mentors.html) 
+
+
  
