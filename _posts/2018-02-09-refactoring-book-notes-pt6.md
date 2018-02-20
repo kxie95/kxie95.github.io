@@ -13,6 +13,15 @@ categories: refactoring
 
 **Replace Method with Method Object**  
 * What: Long method that uses local variables in a way that you can't extract out methods.  
-* Fix: Turn method into an object with the local variables as fields.
+* Fix: Turn method into an object with the local variables as fields. 
+
+**Introduce Local Extension**  
+* What: A server class you are using needs several additional methods, byt you can't modify the class.
+* Fix: Create a new class that contains these extra methods. Make this extension class a subclass or a wrapper of the original.
+
+**Encapsulate Collection**  
+* What: A method returns a collection.
+* Fix: Make it return a read-only view and provide add/remove methods.  
+* Why: Should not allow the collection to be returned because that allows the client to manipulate it however they want. It reveals too much about the internal structure of the class and how it holds its data.  
  
 
