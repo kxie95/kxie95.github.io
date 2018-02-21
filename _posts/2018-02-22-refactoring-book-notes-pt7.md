@@ -8,7 +8,8 @@ categories: refactoring
 
 **Replace Nested Conditional with Guard Clauses**  
 * What: A method has conditional behavious that does not make clear the normal path of execution.
-* Fix: Use guard clauses for all the special cases.
+* Fix: Use guard clauses for all the special cases.  
+
 ```java
 double getPayAmount() {
     double result;
