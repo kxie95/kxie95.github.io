@@ -10,7 +10,7 @@ categories: simple design
 * Makes sure that the software works as intended.
 * No production code should ever be pushed out without verifying that it works. Tests do that.  
 
-**Reveals intention**
+**Reveals intent**
 * Your code should be easy to understand when read by someone else.
 * Naming of variables, methods and classes are meaningful.
 * Good layout of code (line breaks where it makes sense, tabbing, etc).  
@@ -20,7 +20,7 @@ categories: simple design
 * Duplication of intent, not necessarily code.
 * Most of the time if you are duplicating code though it's very likely you are duplicating intent.  
 
-**Fewest elements**
+**Small**
 * Solution should be concise - anything that doesn't follow the other 3 rules should be removed.
 * Write the smallest amount of code to make the tests pass.  
   

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Refactoring by Martin Fowler Part 6"
 date:       2018-02-09 08:38:00
-summary:    "A catalog of refactorings." 
+summary:    "A catalog of refactorings - Organising Data" 
 categories: refactoring
 ---
 
@@ -23,5 +23,10 @@ categories: refactoring
 * What: A method returns a collection.
 * Fix: Make it return a read-only view and provide add/remove methods.  
 * Why: Should not allow the collection to be returned because that allows the client to manipulate it however they want. It reveals too much about the internal structure of the class and how it holds its data.  
+
+**Replace Record with Data Class**  
+* What: You need to interface with a record structure in a traditional programming environment.
+* Fix: Make a dumb data object for the record.
+* Why: Creates an abstraction for external elements (eg. database record) which creates a better separation of concerns.
  
 
