@@ -37,6 +37,27 @@ double getPayAmount() {
     if (_isRetired) return retiredAmount();
     return normalPayAmount();
 }
-```
- 
+```  
 
+**Introduce Null Object**  
+* What: You have a bunch of null checks everywhere.
+* Fix: Replace null value with a null object, or implement a null interface.  
+* Why: Instead of checking for nulls, you can simply invoke the behaviour without checking for it.
+*My thoughts: Is this really preferable to checking for nulls? A null class seems just as noisy, but I suppose then it's all in one place instead of scattered everywhere.*  
+
+**Introduce Assertion**  
+* What: A section of code assumes something about the state of the program.
+* Fix: Make the assumption explicit with an assertion.  
+```java
+double getExpenseLimit() {
+    // should have either expense limit or a primary object
+    return (_expenseLimit != NULL_EXPENSE) ? _expenseLimit : _primaryObject.getMemberExpenseLimit();
+}
+```  
+
+```java
+double getExpenseLimit() {
+    Assert.IsTrue(_expenseLimit != NULL_EXPENSE || _primaryObject != null);
+    return (_expenseLimit != NULL_EXPENSE) ? _expenseLimit : _primaryObject.getMemberExpenseLimit();
+}
+```
