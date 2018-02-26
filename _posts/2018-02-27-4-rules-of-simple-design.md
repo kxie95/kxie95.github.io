@@ -24,11 +24,13 @@ Your code should communicate its intention/purpose to another person.
 
 **How**  
 * Naming of variables, methods and classes should be meaningful. (Read Clean Code - Naming)
-* Layout your code in logical blocks (line breaks to separate out chunks of logic, tabbing, etc). 
+* Layout your code in logical blocks (line breaks to separate out chunks of logic, tabbing, etc)
+* Unit tests which explain what the test is for, and follows a logical flow from arrange, act to assert.
 
 **Why?**  
 * Software is for humans first, and computers second.
 * You are not going to be the only one working on the piece of code you write.
+* Your future self will thank you.
 
 > There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton  
 
