@@ -7,7 +7,7 @@ categories: simple design
 ---
 
 ## Tests pass  
-Write tests which verify the behaviour of your code.  
+Write tests to verify the behaviour of your code. Make sure they pass.  
 
 **How**  
 I strongly prefer to do this TDD Red-Green-Refactor style when possible.  
@@ -16,8 +16,8 @@ I strongly prefer to do this TDD Red-Green-Refactor style when possible.
 * Refactor
 
 **Why**  
-* Ensures your software works as intended. No production code should ever be pushed out without verifying that it works.
-* Make you the user of your own code and therefore makes you reflect on the design of it.
+* Ensures that your software works as intended. No production code should ever be pushed out without verifying that it works.
+* Makes you the user of your own code and therefore makes you reflect on the design of it.
 
 ## Reveals intent  
 Your code should communicate its intention/purpose to another person.  
