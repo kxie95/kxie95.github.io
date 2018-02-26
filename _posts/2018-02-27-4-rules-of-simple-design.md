@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "4 Rules of Simple Design"
-date:       2018-01-27 07:57:00
+date:       2018-02-27 07:57:00
 summary:    "Four rules which help drive simplicity in design, no matter which programming language you work with." 
 categories: simple design
 ---
