@@ -6,7 +6,7 @@ summary:    "Four rules which help drive simplicity in design, no matter which p
 categories: simple design
 ---
 
-## Tests pass  
+## 1) Tests pass  
 Write tests to verify the behaviour of your code. Make sure they pass.  
 
 **How**  
@@ -19,7 +19,7 @@ I strongly prefer to do this TDD Red-Green-Refactor style when possible.
 * Ensures that your software works as intended. No production code should ever be pushed out without verifying that it works.
 * Makes you the user of your own code and therefore makes you reflect on the design of it.
 
-## Expressive  
+## 2) Expressive  
 Your code should communicate its intention/purpose to another person.  
 
 **How**  
@@ -34,7 +34,7 @@ Your code should communicate its intention/purpose to another person.
 
 > There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton  
 
-## No duplication
+## 3) No duplication
 Don't repeat yourself - do not write two pieces of code which do the same thing. This means duplication of intent, not necessarily code. Most of the time if you are duplicating code though it's very likely you are duplicating intent.  
 
 **How**  
@@ -47,7 +47,7 @@ Don't repeat yourself - do not write two pieces of code which do the same thing.
 * Whenever you make a change to that behaviour, it means you have to update all instances of it.
 * Or even worse, you forget to update it (had this happen in my team recently).
 
-## Small
+## 4) Small
 Solution should be concise - anything that doesn't follow the other 3 rules should be removed. You want to be writing the minimum amount classes/methods while keeping methods small.
 
 **How**  
