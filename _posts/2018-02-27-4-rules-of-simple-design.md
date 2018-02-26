@@ -18,6 +18,7 @@ I strongly prefer to do this TDD Red-Green-Refactor style when possible.
 **Why**  
 * Ensures that your software works as intended. No production code should ever be pushed out without verifying that it works.
 * Makes you the user of your own code and therefore makes you reflect on the design of it.
+* Drives you towards better design - testable code is usually less coupled and has a single purpose. Tightly coupled code is hard to test.
 
 ## 2) Expressive  
 Your code should communicate its intention/purpose to another person.  
