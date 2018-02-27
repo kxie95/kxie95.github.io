@@ -49,15 +49,14 @@ Don't repeat yourself - do not write two pieces of code which do the same thing.
 * Or even worse, you forget to update it (had this happen in my team recently).
 
 ## 4) Small
-Solution should be concise - anything that doesn't follow the other 3 rules should be removed. You want to be writing the minimum amount classes/methods while keeping methods small.
+Solution should be concise - anything that doesn't follow the other 3 rules should be removed. This means fewer lines of code, while still following the other 3 rules. Making your code small is more of an "optimisation" step; after you've followed the other 3 rules, only then should you look at how to make your code small.
 
 **How**  
-* Write the smallest amount of code to make the tests pass.
-* Might mean considering different algorithms, but this is often not the case.  
+* Write the smallest amount of code to make the tests pass. 
 
 **Why**  
 * Writing less code is better - it means there are fewer places where things can go wrong.
-* Faster to understand, if you follow the other 3 rules.
+* Faster to understand, if you do this and follow the other 3 rules.
     
 # Order of priorities  
 Martin Fowler shows the order of priorities of these rules.  
