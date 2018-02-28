@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Refactoring by Martin Fowler Part 9"
-date:       2018-02-26 08:14:00
+date:       2018-03-01 07:45:00
 summary:    "Dealing with generalisation" 
 categories: refactoring
 ---
