@@ -16,7 +16,9 @@ Many of the sections in "Dealing with Generalisation" are heavily focussed on fi
 **Form Template Method**  
 * You have two methods in subclasses that perform similar steps in the same order, yet the steps are different.
 * Get the steps into methods with the same signature, so that the original methods become the same. Then you can pull them up.
+
 Example - Before  
+
 ```java
 class ResidentialSite {
     public void getBillableAmount() {
@@ -34,7 +36,9 @@ class LifelineSite {
     }
 }
 ```  
+
 Example - After - Superclass contains the template method, subclasses implement `getBaseRate()` and `getTaxRate()`.    
+
 ```java
 class Site {
     public void getBillableAmount() {
@@ -50,6 +54,7 @@ class Site {
 
 Example: MyStack originally called its inherited superclass methods but was changed to call these from its private field instead.  
 We can then break the link to the superclass and add extra methods as needed without having to inherit everything from `Vector`.  
+
 ```java
 class MyStack extends Vector {
     private Vector _vector = this;
