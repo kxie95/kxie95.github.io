@@ -17,4 +17,4 @@ I didn't expect that first line to be about social change. I've always thought X
 ## Chapter 2 - Learning to Drive
 Stay aware. Adapt. Change.  
 * We need to do this because everything in software changes - requirements, people, business, design, etc.
-* Think to self about improving effectiveness communication confidence and productivity.
+* Think about whether each practice your team adds improves effectiveness, communication, confidence and/or productivity.
