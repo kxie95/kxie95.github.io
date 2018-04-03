@@ -35,3 +35,11 @@ XP embraces 5 values to guide development:
 5. Respect: Everyone should care for and be treated as equally important.
 
 These values must be embraced together, not independently. For example, you can't just focus on feedback while having no respect for the people you work with, courage helps in giving feedback and communication, etc.
+
+## Chapter 5 - Principles
+Values are too abstract to guide behaviour so we have these principles:
+* Humanity: Software is a people thing. People need safety, accomplishment, belonging, growth and intimacy.
+* Economics: The software we build must have some sort of business value.
+* Mutual Benefit: Every activity should benefit all concerned. **[most important one]**
+* Self-Similarity: [I don't really get this one - I think it's something about how some things can be applied to many places.]
+* Improvement: Do the best you can today. Put improvement to work by not waiting for perfection.
