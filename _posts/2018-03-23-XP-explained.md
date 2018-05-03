@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Reading: XP Explained by Kent Beck"
+title:      "Reading: XP Explained CH 1-5 by Kent Beck"
 date:       2018-03-09 07:58:00
-summary:    "" 
+summary:    "What is XP, its values and principles?" 
 categories: xtreme programming explained kent beck
 ---
 
@@ -37,10 +37,46 @@ XP embraces 5 values to guide development:
 These values must be embraced together, not independently. For example, you can't just focus on feedback while having no respect for the people you work with, courage helps in giving feedback and communication, etc.
 
 ## Chapter 5 - Principles
-Values are too abstract to guide behaviour so we have these principles:
-* Humanity: Software is a people thing. People need safety, accomplishment, belonging, growth and intimacy.
-* Economics: The software we build must have some sort of business value.
-* Mutual Benefit: Every activity should benefit all concerned. **[most important one]**
-* Self-Similarity: [I don't really get this one - I think it's something about how some things can be applied to many places.]
-* Improvement: Do the best you can today. Put improvement to work by not waiting for perfection.
-* Diversity: 
+Values are too abstract to guide behaviour so we have these principles:  
+
+**Humanity**  
+Software is a people thing. People need safety, accomplishment, belonging, growth and intimacy.  
+
+**Economics**
+The software we build must have some sort of business value.  
+
+**Mutual Benefit**
+Every activity should benefit all concerned. **[most important one]**  
+
+**Self-Similarity**  
+[I don't really get this one - I think it's something about how some things can be applied to many places.]  
+
+**Improvement**  
+Do the best you can today. Put improvement to work by not waiting for perfection.  
+
+**Diversity**  
+There will inevitably be conflicts with diverse team members. All opinions should be valued and need conflicts need to be resolved productively.  
+
+**Reflection**  
+Good teams don't just do their work, they think about how they are working and why they are working.  
+
+**Flow**  
+Deliver things in small chunks.
+
+**Opportunity**  
+Consciously choose to transform each problem into an opportunity.  
+
+**Redundancy**  
+Making sure there is a backup if other solutions fail, but not to the point where it is wasteful.
+
+**Failure**  
+If you're having trouble succeeding, fail. Failure is not a waste if it imparts knowledge.
+
+**Quality**  
+Do work you are proud of.
+
+**Baby steps**  
+Taking small steps to get to a bigger goal feels safer than doing one massive change.  
+
+**Accepted Responsibility**
+Responsibility cannot be assigned, only accepted.
