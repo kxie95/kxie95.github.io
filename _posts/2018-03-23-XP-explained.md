@@ -43,3 +43,4 @@ Values are too abstract to guide behaviour so we have these principles:
 * Mutual Benefit: Every activity should benefit all concerned. **[most important one]**
 * Self-Similarity: [I don't really get this one - I think it's something about how some things can be applied to many places.]
 * Improvement: Do the best you can today. Put improvement to work by not waiting for perfection.
+* Diversity: 
