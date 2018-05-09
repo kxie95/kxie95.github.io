@@ -13,4 +13,12 @@ Now you might be wondering why I would leave that for a smaller, less global com
 I've always thought that no experience I'll have next could top the Google one. That was incredibly silly of me to think that way, because over the past year MYOB has really challenged and changed that thought of mine. MYOB has been continuously refining their graduate programme over the past year, and I can safely say that there are some things Google can learn from too. Of course, the reverse is true as well.  
   
 Here are some comparisons between my internship at Google, and my graduate experience at MYOB:  
+
+## Finding the right people
+**Google**: Two technical interviews over Google Docs and phone.  
+**MYOB**: Video screening, in-person group activities with other candidates and non-technical interview.  
+
+I feel that Google does well in finding people who are technically strong, but there isn't enough focus in finding candidates who are a great match value-wise. I have a feeling that their bet was on being able to mould people into the culture at Google.
+
+MYOB on the other hand focuses more on finding people who fit in value-wise, with not much focus on technical skill (apart from questions about past experiences on projects). Our thinking is that technical skill is easier train up whereas someone's values are hard to break.
   
