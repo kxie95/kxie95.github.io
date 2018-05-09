@@ -29,7 +29,9 @@ MYOB on the other hand focuses more on finding people who fit in value-wise, wit
 
 As I write about the key points in my onboarding experiences, they seem kind of similar but in reality I found the Google onboarding experience to be more engaging and fun. I liked how the whole experience felt very true to Google's culture, which is an innovative and fun place to work. They went over the company's vision and set up a lot of creative activities to help interns get to know each other. Small touches such balloons and candies on our desks and a treasure hunt to get to know the office helped tie the experience altogether.  
 
-I was flown to MYOB's headquarters for my induction week. During this week, we listened to a lot of presentations from executive members and a few engineers. Most of getting to know people was through lunches. When I arrived back in the Auckland office, I started work just like every other employee. 
+I was flown to MYOB's headquarters for my induction week. During this week, we listened to a lot of presentations from executive members and a few engineers. Most of getting to know people was through lunches. When I arrived back in the Auckland office, I started work just like every other employee.  
+
+## Office Environment 
 
 
   
