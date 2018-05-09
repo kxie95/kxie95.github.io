@@ -23,5 +23,11 @@ I feel that Google does well in finding people who are technically strong, but t
 
 MYOB on the other hand focuses more on finding people who fit in value-wise, with not much focus on technical skill (apart from questions about past experiences on projects). Our thinking is that technical skill is easier train up whereas someone's values are hard to change.  
 
-## TBC
+## Onboarding & Welcoming
+**Google**: Induction presentations about company, activities to get to know interns, introduced to mentors and planned lunch with the team.  
+**MYOB**: Induction week to get to know the company, activities to get to know other graduates, team introductions is up to the team.  
+
+As I write about the key points in my onboarding experiences, they seem kind of similar but in reality I found the Google onboarding experience to be more engaging and fun. I liked how the whole experience felt very true to Google's culture, which is an innovative and fun place to work. They went over the company's vision and set up a lot of creative activities to help interns get to know each other. Small touches such as a balloon and candy on our desk helped tie the experience altogether.  
+
+
   
