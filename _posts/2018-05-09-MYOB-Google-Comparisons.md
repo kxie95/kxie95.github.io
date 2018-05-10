@@ -23,15 +23,18 @@ I feel that Google does well in finding people who are technically strong, but t
 
 MYOB on the other hand focuses more on finding people who fit in value-wise, with not much focus on technical skill (apart from questions about past experiences on projects). Our thinking is that technical skill is easier train up whereas someone's values are hard to change.  
 
-## Onboarding & Welcoming
-**Google**: Induction presentations about company, activities to get to know interns, introduced to mentors and planned lunch with the team.  
-**MYOB**: Induction week to get to know the company, activities to get to know other graduates, team introductions is up to the team.  
+## Onboarding & Setup
+**Google**: Induction presentations about company, activities to get to know interns, introduced to mentors and planned lunch with the team. All crucial tools and software are needed are ready from the get-go.  
+**MYOB**: Induction week to get to know the company, activities to get to know other graduates, team introductions is up to the team. Individual setup needed to get some tools and software ready for development.
 
-As I write about the key points in my onboarding experiences, they seem kind of similar but in reality I found the Google onboarding experience to be more engaging and fun. I liked how the whole experience felt very true to Google's culture, which is an innovative and fun place to work. They went over the company's vision and set up a lot of creative activities to help interns get to know each other. Small touches such balloons and candies on our desks and a treasure hunt to get to know the office helped tie the experience altogether.  
+As I write about the key points in my onboarding experiences, they seem kind of similar but in reality I found the Google onboarding experience to be more engaging, fun and streamlined. I liked how the whole experience felt very true to Google's culture, which is an innovative and fun place to work. They went over the company's vision and set up a lot of creative activities to help interns get to know each other. Small touches such balloons and candies on our desks and a treasure hunt to get to know the office helped tie the experience altogether.  
+
+A big thing that made life easier while getting setup was that Google has a dedicated team to help you streamline that process. Any small bits of hardware like USB cables, HDMI cables etc. were available in wracks around the office.
 
 I was flown to MYOB's headquarters for my induction week. During this week, we listened to a lot of presentations from executive members and a few engineers. Most of getting to know people was through lunches. When I arrived back in the Auckland office, I started work just like every other employee.  
 
-## Office Environment 
+## Office Environment  
+**Google**: Open office, kitchens with snacks and drinks, nap rooms, recreational rooms.
+**MYOB**: Open office, kitchens with refreshments, no recreational rooms.
 
-
-  
+Google's office environment didn't feel like an office at all. 
