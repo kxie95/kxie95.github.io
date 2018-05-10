@@ -45,7 +45,11 @@ MYOB's office layout is similar, with interesting decor around the office. The c
 **Google**: Two hosts for "STEP interns" (less experienced), one host for "SWE interns" (more experienced).  
 **MYOB**: Originally started out with one mentor, but has now changed to two.
 
-I personally enjoy and find more value in having two mentors. There are a few reasons for this. One, availability - if one mentor is busy, the other can cover and help the mentee.  
+One main difference I observed was that the mentor(s) I have at MYOB are a little more involved than the ones I had at Google. I felt that because Google has a much higher bar in terms of technical skill, they could get away with being more hands-off. However, the result of this was that I wasn't able to get the full benefits of having a mentor. I was only aware of the gaps in my knowledge through code reviews, and nothing else. Mentors at Google want to get you to a place where you'll be hired full-time, but from what I could see the company didn't give enough support for them to help all mentees do that.
+
+In contrast, at MYOB, I spent a lot of time pairing with my mentor(s). 
+
+I personally enjoy and see many benefits in having two mentors. There are a few reasons for this. If one mentor is busy, the other can cover and help the mentee.
 
 ## Programme structure
 
