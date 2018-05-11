@@ -10,7 +10,7 @@ In the two summers of my university degree, I interned at Google in Sydney, Aust
   
 Now you might be wondering why I would leave that for a smaller, less global company like MYOB. The truth is, I didn't. Google's interview processes are tough! Although my mentors responded positively at my performance during my internships, I didn't perform well enough in my final technical interviews for them to accept me. It was one of the toughest rejections I've faced, no doubt. I felt crushed at first, but it later strengthened and motivated me. I feel like I can face most rejections now, and it also made me reflect on gaps I had in my knowledge.  
   
-I've always thought that no experience I'll have next could top the Google one (mainly because of all the luxuries that come with working in a software giant). I was so, so wrong. Over the past year MYOB has really challenged and changed that thought of mine. Over the past year I've been here, MYOB has been continuously refining their graduate programme, and I can safely say that there are some things that Google can learn from too. Of course, the reverse is true as well.  
+I've always thought that no experience I'll have next could top the Google one (mainly because of all the luxuries that come with working in a software giant). I was so, so wrong. Over the past year MYOB has really challenged and changed that thought of mine. MYOB has been continuously refining their graduate programme, and I can safely say that there are some things that Google can learn from too. Of course, the reverse is true as well.  
 
 Here are some comparisons between my internship at Google, and my graduate experience at MYOB:  
 
