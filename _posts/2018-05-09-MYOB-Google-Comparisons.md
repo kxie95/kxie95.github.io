@@ -21,7 +21,7 @@ Here are some comparisons between my internship at Google, and my graduate exper
 
 Google's process does well in finding people who are technically strong, but there isn't enough focus in finding candidates who are a great match value-wise and with good interpersonal skills. The only indicators of these were in the online application form, but not much was done to understand what I was like as a person and the values which matter most to me. I guess their bet was on being able to mould people into the culture at Google. While I did find the fun, friendly culture at Google infectious, I don't know how well that would work on everyone.
 
-MYOB on the other hand, focuses more on finding people who fit in value-wise, with not much focus on technical skill (apart from questions about past experiences on projects). We take this approach because we believe technical skill can be grown, but someone's values and passion are difficult to.  
+MYOB on the other hand, focuses more on finding people who fit in value-wise, with not much focus on technical skill (apart from questions about past experiences on projects). We take this approach because we believe technical skill can be grown, but passion is harder to grow and values can be difficult to change.  
 
 ## Onboarding & Setup
 **Google**: Induction presentations about company, activities to get to know interns, introduced to mentors and planned lunch with the team. Most crucial tools and software are needed are ready from the get-go.  
