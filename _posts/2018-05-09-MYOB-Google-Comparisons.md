@@ -3,7 +3,7 @@ layout:     post
 title:      "My experience: Intern vs Graduate"
 date:       2018-05-09 07:25:00
 summary:    "How my experience as a gradute at MYOB compares to my internship at Google." 
-categories: MYOB Google intern graduate programme
+categories: experiences
 ---
 
 In the two summers of my university degree, I interned at Google in Sydney, Australia. My experience there is one of the highlights of my career as a software developer. After all, who doesn't like a company who feeds you, allows you to nap during work and has funky spaces for you to play?  
