@@ -45,14 +45,26 @@ MYOB's office layout is similar, with interesting decor around the office. The c
 **Google**: Two hosts for "STEP interns" (less experienced), one host for "SWE interns" (more experienced).  
 **MYOB**: Originally started out with one mentor, but has now changed to two.
 
-One main difference I observed was that the mentor(s) I have at MYOB are a little more involved than the ones I had at Google. I felt that because Google has a much higher bar in terms of technical skill, they could get away with being more hands-off. However, the result of this was that I wasn't able to get the full benefits of having a mentor. I was only aware of the gaps in my knowledge through code reviews, and nothing else. Mentors at Google want to get you to a place where you'll be hired full-time, but from what I could see the company didn't give enough support for mentors to help all mentees do that.
+One main difference I observed was that the mentor(s) I had at Google were more hands-off than the ones MYOB. At the time, I didn't think much of it. Google has a much higher bar in terms of technical skill, so they could get away with being more hands-off. However, the result of this was that I didn't grow as much. I also wasn't able to get the full benefits of having a mentor. The only gaps in my knowledge I found were through code reviews, and nothing else. Mentors at Google want to get you to a place where you'll be hired full-time, but from what I could see the company didn't give enough support for mentors to help all mentees do that.
 
 In contrast, at MYOB, I spent a lot of time pairing with my mentor(s) and mobbing with other people. I found this incredibly useful because I was able to see better ways of working and incorportated good habits in the way I code too. Code reviews are a great form of feedback, but it only tells you about the *result* of the code you produced and nothing about the *way* in which you produced that code. Pairing/mobbing with other people gives you that and more. 
 
 After having tried a having a single mentor vs. co-mentors, I personally enjoy and see more benefits in having two mentors. There are a few reasons for this. If one mentor is busy, the other can cover and help the mentee. Having two mentors also gives you two perspectives, which is great for keeping the mentee's mind open to different ways of solving problems. 
 
 ## Programme structure
-**Google**: One team for 3 months (the whole internship). Checkups done mid-internship and at the end.  
-**MYOB**: Team rotations for up to 2 years.  
+**Google**: Work on a project in one team for 3 months (the whole internship). Mandatory presentation done at the end.  
+**MYOB**: Work with different teams in 3-6 month rotations for up to 2 years.  
+
+Internships usually only last 3 months, so it makes sense to only work on one project for the whole internship. What I like is that they pick projects based on what you're interested in, and they find a team which they think would be a good fit for you. This is great; I had so much fun doing these projects! However, I feel I specialised a bit too early on in my career because of my love for Android development. In retrospect, it would have been better to expose myself to different programming paradigms to stretch my mind.
+
+As MYOB's graduate programme is longer, we have the luxury of being able to rotate into different teams. This was an eye-opening experience for me. I've worked with 4 different teams now, and they were each diverse in their people, technologies and way of working. This does come with its downsides though; not all teams were a good fit for me. Still, I grew a lot from these experiences and am glad I went through it all. I learned more about how to communicate with people with different personalities. I learned and experimented with different agile mindsets. I learned better ways of coding. Most importantly, I learned more about how to work with people in spite of our differences. Some of those things I would not have as much exposure to if I were at Google.  
+
+# TLDR  
+* I had great experiences at both Google and MYOB.
+* Google's strength lies in its culture of fun, creativity and eye for technically-strong engineers.  
+* MYOB's strength lies in its openness to experiment and its focus on growing engineers with potential. This is how its graduate (now protege) programme has become much more refined than when I first started.
+  
+
+
   
 
