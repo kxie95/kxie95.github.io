@@ -61,7 +61,7 @@ As MYOB's graduate programme is longer, we have the luxury of being able to rota
   
 A unique part of the programme was the "academy". This was a time where graduates and our more experienced engineers would come together discuss how we solved a particular coding problem. We primarily focused on sharpening our technical skills. Every week, the graduates would work on a different coding problem. At the end the week, we would come together and discuss our approaches to the problem. This taught us about pairing, TDD styles, software design, and more. Although I was already taught these concepts in university, they were just concepts in my head. The academy presented these concepts in practical ways in which I could immediately apply to my code.  
 
-## TLDR  
+## Overall  
 * I had great experiences at both Google and MYOB.
 * Google's strength lies in its culture of fun, creativity and eye for technically-strong engineers.  
 * MYOB's strength lies in its openness to experiment and its focus on growing engineers with potential. This is how its graduate (now protege) programme has become much more refined than when I first started.
