@@ -49,15 +49,17 @@ One main difference I observed was that the mentor(s) I had at Google were more 
 
 In contrast, at MYOB, I spent a lot of time pairing with my mentor(s) and mobbing with other people. I found this incredibly useful because I was able to see better ways of working and incorportated good habits in the way I code too. Code reviews are a great form of feedback, but it only tells you about the *result* of the code you produced and nothing about the *way* in which you produced that code. Pairing/mobbing with other people gives you that and more. 
 
-After having tried a having a single mentor vs. co-mentors, I personally enjoy and see more benefits in having two mentors. There are a few reasons for this. If one mentor is busy, the other can cover and help the mentee. Having two mentors also gives you two perspectives, which is great for keeping the mentee's mind open to different ways of solving problems. 
+After having experienced both having a single mentor and co-mentors, I personally enjoy and see more benefits in having two mentors. There are a few reasons for this. For one, if one mentor is busy, the other can cover and help the mentee. Having two mentors also gives you two perspectives, which is great for keeping the mentee's mind open to different ways of solving problems. 
 
 ## Programme structure
 **Google**: Work on a project in one team for 3 months (the whole internship). Mandatory presentation done at the end.  
 **MYOB**: Work with different teams in 3-6 month rotations for up to 2 years.  
-
-Internships usually only last 3 months, so it makes sense to only work on one project for the whole internship. What I like is that they pick projects based on what you're interested in, and they find a team which they think would be a good fit for you. This is great; I had so much fun doing these projects! However, I feel I specialised a bit too early on in my career because of my love for Android development. In retrospect, it would have been better to expose myself to different programming paradigms to stretch my mind.
-
+  
+Internships usually only last 3 months, so it is a little unfair to be comparing this to MYOB's programme. What I liked is that they pick projects based on what you're interested in, and they find a team which they think would be a good fit for you. I had a lot of fun doing these projects. However, I feel I started to specialised a bit too early on in my career because of my love for Android development. In retrospect, it would have been better to expose myself to different programming paradigms to stretch my thinking.  
+  
 As MYOB's graduate programme is longer, we have the luxury of being able to rotate into different teams. This was an eye-opening experience for me. I've worked with 4 different teams now, and they were each diverse in their people, technologies and way of working. This does come with its downsides though; not all teams were a good fit for me. Still, I grew a lot from these experiences and am glad I went through it all. I learned more about how to communicate with people with different personalities. I learned and experimented with different agile mindsets. I learned better ways of coding. Most importantly, I learned more about how to work with people in spite of our differences. Some of those things I would not have as much exposure to if I were at Google.  
+  
+A unique part of the programme was the "academy". This was a time where graduates and our more experienced engineers would come together discuss how we solved a particular coding problem. We primarily focused on sharpening our technical skills. Every week, the graduates would work on a different coding problem. At the end the week, we would come together and discuss our approaches to the problem. This taught us about pairing, TDD styles, software design, and more. Although I was already taught these concepts in university, they were just concepts in my head. The academy presented these concepts in practical ways in which I could immediately apply to my code.  
 
 ## TLDR  
 * I had great experiences at both Google and MYOB.
