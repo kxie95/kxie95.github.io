@@ -20,5 +20,11 @@ My second team was incredibly different to my first team. They embraced mob prog
 
 In the 6 months I was with this team, I learned far more than I did in my 6 months of internships during my university years. It boosted my technical skills by constantly pairing and mobbing with other engineers. I saw and learned different ways of working - these I wouldn't have learned if I were just working alone.  
 
-## Academy
- 
+## The birth of the "Academy"
+While I was having a great team experience, I felt there was something lacking in my learning and that there were still gaps in my knowledge. I wanted to know: How do I get better? How do I know I've become better? How can I make my learning specific and focused on a certain area? What should I learn? These were questions I raised with my manager at the time (who is now the driver of the FMA). We realised we needed a better plan to grow not only the more junior people in our company, but also the senior ones. It was around the same time that my manager had plans to spend time with 8th Light in order to understand and gain insights into how to mentor and grow developers. This was the beginning of how FMA started.  
+
+
+
+
+
+TBC
