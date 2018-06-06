@@ -18,11 +18,11 @@ I told myself to stick it out for a few more months. I decided to put all my hop
 ## My second team
 My second team was incredibly different to my first team. They embraced mob programming, were collaborative and were extremely diverse as people. No team is perfect, and this one certainly wasn't an exception, but I was inspired by the team's openness to experimenting with new ways of working. I loved what was happening in this team.  
 
-In the 6 months I was with this team, I learned far more than I did in my 6 months of internships during my university years. It boosted my technical skills by constantly pairing and mobbing with other engineers. I saw and learned different ways of working - these I wouldn't have learned if I were just working alone.  
+In the 6 months I was with this team, I learned far more than I did in my 6 months of internships during my university years. It boosted my technical skills by constantly pairing and mobbing with other engineers. I saw and learned different ways of working - for example, the different setups people use on their machines to boost their productivity, the process of how someone arrives at a solution, how people stay focused on the task at hand, etc.
 
 ## The birth of the "Academy"
 While I was having a great team experience, I felt there was something lacking in my learning and that there were still gaps in my knowledge. I wanted to know: How do I get better? How do I know I've become better? How can I make my learning specific and focused on a certain area? What should I learn? These were questions I raised with my manager at the time (who is now the driver of the FMA). We realised we needed a better plan to grow not only the more junior people in our company, but also the senior ones. It was around the same time that my manager had plans to spend time with 8th Light in order to gain insights into how to mentor and grow developers. This was the beginning of how FMA started.  
   
 Soon after, my manager and a developer willingly put time and effort into starting what they called the "Academy". This was 2 hours a week spent reviewing code and learning foundational software skills. Topics covered included TDD, 4 rules of simple design, refactoring and composition, to list a few. While I had learned many of these in my years at university, it was mostly theory in my head which I didn't know how to apply. While I can't say I loved doing all the coding exercises (Come on, we got out of university to escape assignments!) that were given to me, I still found these sessions incredibly valuable and insightful. I'm so grateful for the time and effort put into these sessions.
 
-TBC
+## 
