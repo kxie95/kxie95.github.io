@@ -31,4 +31,9 @@ After we'd all had some experience with different crews, the company wanted to e
 All in all, I feel the graduate team was a success. We had great team cohesion, our discussions were productive, development was fun and we ended up delivering a product that the customer was happy with. It's a huge shame we can't actually be a permanent team.  
 
 ## Choosing my home team
+At the end of the Academy, you're expected to choose a team to join permanently. To be honest, I liked the experience of being able to speed date crews. I think we definitely have it better than other employees who get placed in teams and don't have much of a decision. They don't get to see as many parts of MYOB and how different crews operate.
 
+Choosing a team was incredibly hard for me. My first choice would have been the crew formed with the other proteges, but that was not an option. I had to reorganise my thinking to decide. There were 3 things I valued:  
+1. Team dynamics - do I like the way this team works? 
+2. Ability to make an impact - Am I able to positively influence and add value to this team? How does this team affect the rest of the organisation?
+3. Interest in domain - Do I like what I'm building?
