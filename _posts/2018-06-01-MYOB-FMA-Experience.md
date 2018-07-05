@@ -34,6 +34,15 @@ All in all, I feel the graduate team was a success. We had great team cohesion, 
 At the end of the Academy, you're expected to choose a team to join permanently. To be honest, I liked the experience of being able to speed date crews. I think we definitely have it better than other employees who get placed in teams and don't have much of a decision. They don't get to see as many parts of MYOB and how different crews operate.
 
 Choosing a team was incredibly hard for me. My first choice would have been the crew formed with the other proteges, but that was not an option. I had to reorganise my thinking to decide. There were 3 things I valued:  
-1. Team dynamics - do I like the way this team works? 
-2. Ability to make an impact - Am I able to positively influence and add value to this team? How does this team affect the rest of the organisation?
-3. Interest in domain - Do I like what I'm building?
+
+1. __Team dynamics__ - Do I like the way this team works? Do I feel connected to these people? 
+2. __Ability to make an impact__ - Am I able to positively influence and add value to this team? How does this team affect the rest of the organisation?
+3. __Interest in domain__ - Do I like what I'm building?  
+
+In my mind, it was really down to 2 teams - my second and last one.  
+
+For me, my last team ticked the team dynamics (although I had some concerns) and impact boxes, but didn't really tick the interest box for me. The problem with that is I'm less motivated to build something which isn't interesting to me.  
+
+The second team's domain was much more interesting for me, but team dynamics were lacking for me. They have a good mix of people, but the friction that caused made it hard to utilise our strengths. I felt there was room for me to make an impact, but I think my last team has a bigger influence due to the nature of their domain.  
+
+In the end, I chose my last team. I had concerns around the team dynamics, but it was good enough that I could work with it. Plus, I was determined to change and improve it.
