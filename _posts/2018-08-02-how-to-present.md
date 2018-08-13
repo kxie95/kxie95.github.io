@@ -18,3 +18,9 @@ There are four key questions in the 4MAT model for structuring your presentation
 The order matters - you must first motivate the audience to listen, tell them about data and information, how they can apply it, and round off by covering the other bases.
 
 This model can also be used in other contexts - meetings, impromptu explanations, interviews, emails, day-to-day conversations... the list goes on.
+
+### Language
+
+Use definite language - avoid using words like "hope", "I guess", "might".
+
+Try conduplicatio - repeating the same key word in successive phrases and sentences to emphasize a point.
