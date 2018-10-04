@@ -27,3 +27,13 @@ What I take from this is that we're not trying to find a "middle-ground" - we're
 ## The Role of a Facillitator
 
 To encourage all the values above when in a group discussion. The facillitator's mission is to support everyone to do their best thinking.
+
+## Techniques that stand out to me
+
+**Encouraging**: Many times discussions are lead by the loudest people. This technique is a way to draw out the people who aren't as engaged.
+
+We can do this without singling out people by simply restating the objective and then encouraging. Eg. "We've been looking for the root causes of this problem. Any other possibilities?"
+
+**Balancing**: Seeking out arguments from a different perspective. Do this when you need to broaden the discussion. Eg. "Okay, we've heard three people stand on this matter. Does anyone else have a different position?"
+
+**Summarising**: Needed to close off the discussion. People need to feel that their ideas have been heard otherwise the discussion may not close.
