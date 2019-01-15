@@ -6,6 +6,8 @@ summary: "My thoughts while reviewing my intern's implementation of the Composit
 categories: katas composition
 ---
 
+[Link to the kata here](https://github.com/OdeToCode/Katas/tree/master/Composition/CS/Composition)
+
 This kata is not so much about writing clean code/design but more about seeing the pros/cons of inheritance and composition for yourself.
 
 The problem is about implementing different ways of making calculations (summing, averaging, filtering, etc) with code inherited from another programmer that consulted a design patterns book. In the inheritance implementation, they used the template method (which I find funny because we were told to do an exercise for this very pattern in university).
