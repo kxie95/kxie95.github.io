@@ -11,3 +11,7 @@ categories: frontend frameworks angular
 - Component defined using decorator `@Component` in a ts file, which specifies the name, its template and css.
 - `main.ts` is the first code that gets loaded using `bootstrapModule()`.
 - `app.module.ts` tells angular about which components it should know about. In the `bootstrap` property it contains the component AppRoot.
+
+# Directives
+- **Attribute directives**: Normal HTML attribute, only affects that element they are added to.
+- **Structural directives**: Noraml HTML attribute with a leading *. Removes/adds DOM elements.   
