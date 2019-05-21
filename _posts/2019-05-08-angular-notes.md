@@ -16,6 +16,9 @@ categories: frontend frameworks angular
 - **Attribute directives**: Normal HTML attribute, only affects that element they are added to.
 - **Structural directives**: Noraml HTML attribute with a leading *. Removes/adds DOM elements.   
 
-When creating attribtue directives you should use `[]` around the name of the selector.
+- When creating attribtue directives you should use `[]` around the name of the selector.
+- When accessing the DOM, you should use the Renderer class because Angular can run in other environments where there might not be a DOM (eg. Service Workers).
+- You can use HostListeners/HostBinders to listen to mouse events or bind the the elements properties.
+- You can pass custom values to directives using `Input()`.
 
-When accessing the DOM, you should use the Renderer class because Angular can run in other environments where there might not be a DOM (eg. Service Workers).
+What happens behind the scenes with Structural Directives
