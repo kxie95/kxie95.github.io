@@ -21,4 +21,12 @@ categories: frontend frameworks angular
 - You can use HostListeners/HostBinders to listen to mouse events or bind the the elements properties.
 - You can pass custom values to directives using `Input()`.
 
-What happens behind the scenes with Structural Directives
+# Services
+Injector Heirarchy
+- Propogates downwards.
+- AppModule - same instance will be available application-wide.
+- AppComponent - same instance available for all Components (but not for other Services)
+- Any other Component - same instance available for the Component and its children 
+
+@Injectable
+- Use this when you want to inject a service into another service
