@@ -30,3 +30,7 @@ Injector Heirarchy
 
 @Injectable
 - Use this when you want to inject a service into another service
+
+# Routing
+- With traditional routing (with anchor link), the whole page reloads when you redirect to a different path.
+- With Angular Router, you use a special directive `routerLink` so that it can capture the path, prevent the page from reloading and load the component from registered routes.
