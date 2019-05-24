@@ -6,9 +6,8 @@ summary: ""
 categories: cohesion coupling
 ---
 
-## What is cohesion and coupling?
-**Cohesion** refers to a whether a entity has a well-defined purpose, doing as little as possible.
-- Entities which have a well-defined purpose have **high cohesion**, and those that don't have **low cohesion**.
+## What is cohesion?
+**Cohesion** refers to a whether a entity has a well-defined purpose, doing as little as possible. Entities which have a well-defined purpose have **high cohesion**, and those that don't have **low cohesion**.
 
 Example: Low cohesion
 ```csharp
@@ -33,6 +32,26 @@ class Account {
 }
 ```
 It's clear looking at this entity that the purpose is to keep track of the balance for an account. The methods work together to act on the balance, which makes this class cohesive.
- 
-**Coupling** refers to how much two entities depends on each other.
-- We refer to entities which depend on each other a lot as **tightly coupled**, and entities which are opposite are **loosely coupled**. 
+
+These are just some examples. There are gradients of cohesion:
+1. Coicidental (lowest)
+2. Logical
+3. Temporal
+4. Procedural
+5. Communicational
+6. Sequential
+7. Functional (highest)
+
+## What is coupling?
+**Coupling** refers to how much two entities depend on each other.
+We refer to entities which depend on each other a lot as **tightly coupled**, and entities which are opposite are **loosely coupled**.
+
+Types of coupling:
+- Content: When one entity modifies or relies on the internal workings of another entity.
+- Common: When several entities have access to the same global data.
+- Stamp: When an entity passes more information than needed to another entity.
+- Control: Passing a flag to tell a method what to do. Now calling clients know there is an if inside.
+- Data: Passing parameters to a method that doesn't affect its control flow. This type is common and is not necessarily bad.
+
+## References
+- https://thoughtbot.com/blog/types-of-coupling
