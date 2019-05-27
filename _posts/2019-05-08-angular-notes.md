@@ -39,3 +39,30 @@ Injector Heirarchy
 ### Navigating programatically
 - Import Router into TS file and call `navigate()`. By default this navigates **relative to the root path**
 - When hitting the same path, Angular will **not reload** the component assigned to it.
+
+## Observables
+An observable is a data source (eg. http request, events)
+
+### Observable pattern
+- Observable & Observer
+- Observable emits data/errors.
+- Observer defines code for what happens when you receive data, get errors, or completions.
+
+- The `next()` function pushes the next data package.
+- After the complete() callback is run, no more packages can be sent.
+
+## Forms
+- Angular gives you a javascript object representation of your form.
+Eg.
+```javascript
+{
+  value: {
+    name: 'Max',
+    email: 'Max@gmail.com'
+  },
+  valid: true
+}
+```
+There are two approaches:
+- Template-driven: Angular infers the form object from the DOM
+- Reactive: Form is created programmatically and synchronised with the DOM
