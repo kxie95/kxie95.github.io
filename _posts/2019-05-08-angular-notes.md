@@ -75,3 +75,4 @@ Didn't write notes here because most of this section is just learning syntax whi
 
 ## Making HTTP Requests
 - You must subscribe to the http request or it won't be sent.
+- You can use `catchError` to handle generic error handling tasks like sending analytics.
