@@ -67,5 +67,11 @@ There are two approaches:
 - Template-driven: Angular infers the form object from the DOM
 - Reactive: Form is created programmatically and synchronised with the DOM
 
-## Template-driven
+### Template-driven
 Angular uses the `<form>` tag to know that there is a form. It does not scan the DOM to infer the rest of the form though. We need to register controls to the form.
+
+### Reactive
+Didn't write notes here because most of this section is just learning syntax which I'll forget. 
+
+## Making HTTP Requests
+- You must subscribe to the http request or it won't be sent.
