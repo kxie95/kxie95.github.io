@@ -79,3 +79,10 @@ Didn't write notes here because most of this section is just learning syntax whi
 
 ## Route Guards
 You can use route guards to run logic before navigating to a particular route.
+
+## Optimising Angular Apps
+* Use modules. These modules can be imported in multiple places. Components can only be declared once in one place.
+* Lazy loading. Gives you smaller initial bundle and only loads the module when the associated path is visited by the user.
+* Use @Injectable for services in general. Usually you only want one instance, but you can also provide a separate instance for each module.
+* JiT compilation: Angular template compiler runs in browser at runtime
+* AoT compilation: Angular template compiler runs during the build process before app deployed
