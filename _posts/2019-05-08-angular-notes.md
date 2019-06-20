@@ -86,3 +86,7 @@ You can use route guards to run logic before navigating to a particular route.
 * Use @Injectable for services in general. Usually you only want one instance, but you can also provide a separate instance for each module.
 * JiT compilation: Angular template compiler runs in browser at runtime
 * AoT compilation: Angular template compiler runs during the build process before app deployed
+
+## Adding offline capabilities - service workers
+* Normal javascript code runs on a single thread, attached to individual HTML pages
+* Service worker runs on another single thread, decoupled form HTML page. Manages ALL pages of given scope. It's a proxy between frontend and backend app. 
