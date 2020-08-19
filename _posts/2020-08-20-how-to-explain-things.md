@@ -29,4 +29,14 @@ After that I was like, wow. Has my language really changed that much since I was
 2. I tried to explain what an **actuator** was to a kid that was 15 years old.
 This was a very on-the-spot situation so I quickly googled what an actuator was. Google's definition was *"a device that causes a machine or other device to operate"*. So I naively spat out that definition to the kid. That obviously meant nothing to them considering I'm giving them no context at all.
 
-There were two problems in this situation: 1. I didn't fully understand what an actuator was and 2. I didn't give them any context or examples to understand that abstract definition.
+I realised two things upon reflecting on these two scenarios:
+1. I need to use simpler language
+2. I need to provide context and examples
+
+-TBC-
+
+# Reading list
+[Tech Republic - 10 ways to explain things more effectively](https://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
+[Lifehack - SEEI Method](https://www.lifehack.org/710722/how-to-explain-things-better)
+[The Art of Explanation notes 1](https://thedigitalplan.com/book-review-the-art-of-explanation/#:~:text=The%20Art%20of%20Explanation%20is,understand%20through%20short%20animated%20videos.)
+[The Art of Explanation notes 2](https://thorprojects.com/blog/archive/2013/01/19/book-review-the-art-of-explanation/)
