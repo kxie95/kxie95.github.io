@@ -43,10 +43,11 @@ These are natural and reasonable, but we do want to be able to:
 - Work towards hearing feedback as potentially valuable advice from a fresh perspective (not accusatory)
 
 4. **Unpack the feedback**
-- Often it's not immediately clear whether feedback is valid and useful. Be sure to analyse it.
-> Eg. "be more assertive" 
+- Often it's not immediately clear whether feedback is valid and useful. Be sure to analyse it. For example:
+> "Be more assertive" 
 - What kind of observations and judgements were made to prompt this feedback?
-- What did the giver expect? What are they worried about?
+- What did the giver expect? 
+- What are they worried about?
 
 5. **Ask for just one thing**
 - Request feedback and direct it - this will less likely trigger you
