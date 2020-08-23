@@ -6,6 +6,8 @@ summary: "A summary of Find the Coaching in Criticism by Harvard Business Review
 categories: feedback coaching hbr
 ---
 
+A summary of **"Find the Coaching in Criticism"** by Harvard Business Review. (Find the original article here)[https://hbr.org/2014/01/find-the-coaching-in-criticism].
+
 ## Introduction
 Feedback is crucial: It improves performance, develops talent, aligns expectiations,... etc. But feedback is hard and doesn't work in many organisations.
 
