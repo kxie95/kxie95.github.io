@@ -42,8 +42,7 @@ These are natural and reasonable, but we do want to be able to:
 
 4. **Unpack the feedback**
 - Often it's not immediately clear whether feedback is valid and useful. Be sure to analyse it.
-
-Eg. "be more assertive" 
+> Eg. "be more assertive" 
 - What kind of observations and judgements were made to prompt this feedback?
 - What did the giver expect? What are they worried about?
 
