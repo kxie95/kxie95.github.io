@@ -33,8 +33,8 @@ These are natural and reasonable, but we do want to be able to:
 - Does time make a difference? (do you reject immediately and reconsider over time, accept immediately and later decide it's not valid, etc.)
 
 2. **Separate the "what" from the "who"**
-- If the feedback is on target/wise, it shouldn't matter who delivers it, **but it does**.
-- Rich conversations happen when you set aside snap judgements and explore where the feedback is coming from
+- If the feedback is on target/wise, it shouldn't matter who delivers it, but it does.
+- Rich conversations happen when you set aside snap judgements and explore where the feedback is coming from.
 
 3. **Sort toward coaching**
 - There is **evaluative** (you're an 8/10) and **coaching** (here's how you can improve) feedback.
@@ -42,6 +42,7 @@ These are natural and reasonable, but we do want to be able to:
 
 4. **Unpack the feedback**
 - Often it's not immediately clear whether feedback is valid and useful. Be sure to analyse it.
+
 Eg. "be more assertive" 
 - What kind of observations and judgements were made to prompt this feedback?
 - What did the giver expect? What are they worried about?
