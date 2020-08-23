@@ -18,7 +18,9 @@ Feedback hits at two core human needs:
 1. The need to learn and grow
 2. The need to be accepted just the way you are
 
-This is what makes receiving feedback hard. We have three different triggers when it comes to feedback:
+This is what makes receiving feedback hard. Feedback causes a tension between the two.
+
+We have three different triggers when it comes to feedback:
 1. **Truth triggers**: Set off by the content of the feedback, when it seems unhelpful or untrue, you feel wronged and exasperated.
 2. **Relationship triggers**: Tripped off by the person providing the feedback. Exchanges are coloured by what you believe about the giver (eg. their credibility, how you feel about your previous interactions with them).
 3. **Identity triggers**: You relationship with yourself. Whether the feedback is right or wrong, wise or witless, it can be devastating if it causes your sense of who you are to come undone. In such moments you’ll struggle with feeling overwhelmed, defensive, or off balance.
