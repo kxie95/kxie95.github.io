@@ -1,42 +1,56 @@
 ---
 layout: post
-title: "How to explain things"
-date: 2020-08-20 09:00:00
-summary: "Have you ever had a dream that you, um, you had, your, you- you could, you’ll do, you- you wants, you, you could do so, you- you’ll do, you could- you, you want, you want them to do you so much you could do anything?"
-categories: explaining language communication
+title: "Receiving Feedback"
+date: 2020-08-24 09:00:00
+summary: "A summary of Find the Coaching in Criticism by Harvard Business Review"
+categories: feedback coaching hbr
 ---
 
-You have just finished a long explanation of something that makes complete sense in your head.
+## Introduction
+- Feedback is crucial: It improves performance, develops talent, aligns expectiations,... etc.
+- But feedback is hard and doesn't work in many organisations.
+- We can improve the way we receive feedback to:
+-- Identify and manage the emotions triggered by the feedback
+-- Extract value from criticism even when it's poorly delivered
 
-*Everyone has blank looks on their faces.* 
+## Why feedback doesn't register
+Feedback hits at two core human needs:
+1. The need to learn and grow
+2. The need to be accepted just the way you are
 
-You try to explain some more.
+This is what makes receiving feedback hard. We have three different triggers when it comes to feedback:
+1. **Truth triggers**: Set off by the content of the feedback, when it seems unhelpful or untrue, you feel wronged and exasperated.
+2. **Relationship triggers**: Tripped off by the person providing the feedback. Exchanges are coloured by what you believe about the giver (eg. their credibility, how you feel about your previous interactions with them).
+3. **Identity triggers**: You relationship with yourself. Whether the feedback is right or wrong, wise or witless, it can be devastating if it causes your sense of who you are to come undone. In such moments you’ll struggle with feeling overwhelmed, defensive, or off balance.
 
-*More blank looks.*
+These are natural and reasonable, but we do want to be able to:
+- **recognise what's happening** and 
+- learn **how to derive benefit from feedback** even if it sets off your triggers.
+
+## 6 steps to becoming a better receiver
+1. Know your tendencies
+- What are the patterns in how you respond? (defend yourself on facts, argue about the method of delivery, strike back, etc.)
+- Does time make a difference? (do you reject immediately and reconsider over time, accept immediately and later decide it's not valid, etc.)
+
+2. Separate the "what" from the "who"
+- If the feedback is on target/wise, it shouldn't matter who delivers it, **but it does**.
+- Rich conversations happen when you set aside snap judgements and explore where the feedback is coming from
+
+3. Sort toward coaching
+- There is **evaluative** (you're an 8/10) and **coaching** (here's how you can improve) feedback.
+- Work towards hearing feedback as potentially valuable advice from a fresh perspective (not accusatory)
+
+4. Unpack the feedback
+- Often it's not immediately clear whether feedback is valid and useful. Be sure to analyse it.
+Eg. "be more assertive" 
+- What kind of observations and judgements were made to prompt this feedback?
+- What did the giver expect? What are they worried about?
+
+5. Ask for just one thing
+- Request feedback and direct it - this will less likely trigger you
+
+6. Engage in small experiments
+- When someone gives you advice, test it and see if it works.
+- If it does, great. It it doesn't, tweak it and try again or just end the experiment.
 
 
-Learning to explain things to people is an incredibly important skill, especially in the software industry. I'd say I probably spend at least 30% of my time at work either explaining ideas, problems or solutions. Therefore, I really want to spend my next "learning cycle" at work trying to get better at this skill. My aim is to make a mini workshop to try on my colleagues at the end. 
-
-Here you can find all my reflections and ramblings on this quest to explaining things better.
-
-## "Man, I really suck at explaining things" moments
-In the past two weeks, I've had encounters with youth, and I tried to explain two different things.
-
-1. I tried to explain some ticketing information. I said that certain tickets would be **"fully subsidised"**. 
-My friend quickly jumped in after that to say "basically that means **it will be free**".
-After that I was like, wow. Has my language really changed that much since I was in high school? Then I started to feel really old.
-
-2. I tried to explain what an **actuator** was to a kid that was 15 years old.
-This was a very on-the-spot situation so I quickly googled what an actuator was. Google's definition was *"a device that causes a machine or other device to operate"*. So I naively spat out that definition to the kid. That obviously meant nothing to them considering I'm giving them no context at all.
-
-I realised two things upon reflecting on these two scenarios:
-1. I need to use simpler language
-2. I need to provide context and examples
-
--TBC-
-
-# Reading list
-[Tech Republic - 10 ways to explain things more effectively](https://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
-[Lifehack - SEEI Method](https://www.lifehack.org/710722/how-to-explain-things-better)
-[The Art of Explanation notes 1](https://thedigitalplan.com/book-review-the-art-of-explanation/#:~:text=The%20Art%20of%20Explanation%20is,understand%20through%20short%20animated%20videos.)
-[The Art of Explanation notes 2](https://thorprojects.com/blog/archive/2013/01/19/book-review-the-art-of-explanation/)
