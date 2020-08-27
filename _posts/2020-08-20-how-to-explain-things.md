@@ -47,7 +47,7 @@ There is a highly rated book for explanation called "The Art of Explanation". I 
 ### Different ways to explain things & their pros/cons
 Adapted from notes from thorprojects.com (see #4 in reading list).
 
-1. Text
+**Text**
 
 Pros:
 - Quick
@@ -59,7 +59,7 @@ Pros:
 Cons:
 - Harder to see higher level
 
-2. Images
+**Images**
 
 Pros:
 - Easy to scan
@@ -69,7 +69,7 @@ Pros:
 Cons:
 - Takes a bit longer to make
 
-3. Audio
+**Audio**
 
 Pros:
 - Get more feelings from voice
@@ -79,7 +79,7 @@ Cons:
 - Can't be scanned
 - Hard to retain facts
 
-4. Video
+**Video**
 
 Pros:
 - Combines audio, visual and text which can be more effective at communicating
@@ -88,7 +88,7 @@ Cons:
 - Time consuming, requires equipment and skill
 - Can't be scanned (though Google is changing this)
 
-5. Live demonstration
+**Live demonstration**
 
 Pros:
 - Interactive: engages audience and allows you to adapt your message
