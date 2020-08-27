@@ -38,11 +38,11 @@ I realised two things upon reflecting on these two scenarios:
 There is a highly rated book for explanation called "The Art of Explanation". I read through some notes of it I found on the internet (links at the bottom). Some key highlights I found (confirming the realisations I had above):
 
 ### Key components of a good explanation
-**Context**: The agreements and shared experiences we start with.
-**Story**: The big ideas of the narrative.
-**Connections**: Analogies and metaphors to connect the new concepts with what people already understand.
-**Descriptions**: Details and benefits.
-**Conclusion**: A summary of what was learned.
+- **Context**: The agreements and shared experiences we start with.
+- **Story**: The big ideas of the narrative.
+- **Connections**: Analogies and metaphors to connect the new concepts with what people already understand.
+- **Descriptions**: Details and benefits.
+- **Conclusion**: A summary of what was learned.
 
 ### Different ways to explain things & their pros/cons
 Adapted from notes from thorprojects.com (see #4 in reading list).
