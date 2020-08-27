@@ -48,15 +48,19 @@ There is a highly rated book for explanation called "The Art of Explanation". I 
 Adapted from notes from thorprojects.com (see #4 in reading list).
 
 1. Text
+
 Pros:
 - Quick
 - With headings, easy to scan
 - Easy to review and communicate details
 - Easy to replicate
+
+
 Cons:
 - Harder to see higher level
 
 2. Images
+
 Pros:
 - Easy to scan
 - Good for communicating high level
@@ -66,6 +70,7 @@ Cons:
 - Takes a bit longer to make
 
 3. Audio
+
 Pros:
 - Get more feelings from voice
 
@@ -75,6 +80,7 @@ Cons:
 - Hard to retain facts
 
 4. Video
+
 Pros:
 - Combines audio, visual and text which can be more effective at communicating
 
@@ -83,6 +89,7 @@ Cons:
 - Can't be scanned (though Google is changing this)
 
 5. Live demonstration
+
 Pros:
 - Interactive: engages audience and allows you to adapt your message
 
