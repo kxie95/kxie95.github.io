@@ -2,7 +2,7 @@
 title:       Karen's Blog
 email:       karen-x@outlook.com
 author:      Karen Xie
-description: "Learn. Grow. Pass it on. :) A blog with thoughts and learnings through my journey as a developer."
+description: "A blog with thoughts and learnings through my journey as a developer."
 baseurl:     ""
 url:         "http://xiekaren.github.io"
 date_format: "%b %-d, %Y"
