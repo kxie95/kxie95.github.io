@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Contact me
 description: "Let's keep in touch"
-permalink: /contact/
+permalink: /contact-me/
 ---
 
 **Connect with me on social media**

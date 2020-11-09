@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://xiekaren.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - contact.md
+ - contact-me.md
  - search.html
  - contact.html
 
