@@ -12,4 +12,4 @@ permalink: /contact-me/
 [![](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/knittedk/)
 
 
-Or [contact me](https://xiekaren.github.io/contact/) directly.
+Or [contact me](https://xiekaren.github.io/say-hello/) directly.
