@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://xiekaren.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - readings.md
+ - contact.md
  - search.html
  - contact.html
 
@@ -73,9 +73,9 @@ vk_id:
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
