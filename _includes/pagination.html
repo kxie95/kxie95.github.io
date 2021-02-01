@@ -1,23 +1,44 @@
-{% if paginator.total_pages != 1 %}
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-        <a class="pagination-item" href="{{ site.baseurl }}/">{{ site.text.pagination.newer }}</a>
+<nav class="pagination">
+  <div class="container">
+    <div class="pagination__list">
+
+      {% if paginator.previous_page %}
+      
+      {% if paginator.previous_page == 1 %}
+        <a class="previous-link" href="{{ site.baseurl }}/">Prev Posts</a>
       {% else %}
-        <a class="pagination-item" href="{{ paginator.previous_page_path }}">{{ site.text.pagination.newer }}</a>
+        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Prev Posts</a>
       {% endif %}
-    {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.newer }}</span>
-    {% endif %}
+      
+      {% else %}
+        <span class="disabled">Prev Posts</span>
+      {% endif %}
+
+      <div class="counter-box">
+        {% if paginator.page == 1 %}
+          <span class="active-link">1</span>
+        {% else %}
+          <a href="{{ site.baseurl }}/">1</a>
+        {% endif %}
+
+
+        {% for count in (2..paginator.total_pages) %}
+
+        {% if count == paginator.page %}
+          <span class="active-link">{{ count }}</span>
+        {% else %}
+          <a class="count-number" href="{{ site.baseurl }}/page/{{ count }}/">{{ count }}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+
+      {% if paginator.next_page %}
+      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Next Posts</a>
+      {% else %}
+        <span class="disabled">Next Posts</span>
+      {% endif %}
+
+
+    </div>
   </div>
-  <div class="right">
-    {% if paginator.next_page %}
-      <a class="pagination-item" href="{{ paginator.next_page_path }}">{{ site.text.pagination.older }}</a>
-    {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.older }}</span>
-    {% endif %}
-  </div>
-  <div class="pagination-meta">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
-</div>
-{% endif %}
+</nav>
