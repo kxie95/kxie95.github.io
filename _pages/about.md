@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: profile-photo.jpg
+image: about.jpg
 ---
 
 Hi, my name is Karen.
