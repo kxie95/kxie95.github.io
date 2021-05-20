@@ -4,7 +4,6 @@ title: "Reflections"
 date: 2021-05-20 20:00:00
 summary: "From full-time work to full-time volunteering"
 tags: reflection
-image: 
 ---
 
 Some people may think I've gone crazy, taking a break from my full-time job as a software engineer. Some people wonder why.
